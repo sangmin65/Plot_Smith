@@ -1,0 +1,3756 @@
+{
+    "id": "03_1710",
+    "type": "novel",
+    "title": "새롭게 시작합시다 1",
+    "genre": [
+        "판타지"
+    ],
+    "year": 2022,
+    "theme": "변신",
+    "concept": "주인공이 게임 속 최악의 캐릭터로 빙의한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "빙의",
+    "main_character": "원작 속 악역(흑막)",
+    "conflict": "C001가 게임 속으로 들어와 망해가는 영지를 살리기 위해 노력한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006"
+    ],
+    "units": [
+        {
+            "id": "03_1710_01",
+            "next_id": "03_1710_02",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "게임 속으로 들어와버린 것을 알아차린 C001는 이 세계에서 살아남기 위해 고민한다.",
+            "unit_motif": "빙의",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C001는 자신이 게임 속으로 들어온 것에 혼란스러워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002이 울리며 게임이 시작되었음을 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002은 게임의 클리어에 실패하면 죽는다고 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "혼란스럽다",
+                    "content": "게임에서 죽으면 나도 죽는다고?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "content": "C002은 말이 들리지 않는 듯 상태 창을 띄운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "content": "C002은 C001에 저주가 걸려있다고 보고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "C001는 자신에게 걸린 저주를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "무슨 이런 말도 안 되는 저주가 다 있어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "C001는 최악의 운을 가지게 된다는 저주의 내용을 보며 황당해한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "그냥 걷기만 해도 죽겠는데?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "이때 C001는 위에서 거대한 샹들리에가 떨어지는 걸 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "황당하다",
+                    "content": "떨어지는 샹들리에를 피하며 최악이라며 한숨 쉰다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_02",
+            "prev_id": "03_1710_01",
+            "next_id": "03_1710_03",
+            "characters": [
+                "C001",
+                "영지 기사들",
+                "영지 기사1"
+            ],
+            "stage": "Main Character",
+            "storyline": "떨어진 샹들리에를 보고 들어온 기사들의 반응을 보며 C001는 자신의 평판을 다시 한번 실감한다.",
+            "unit_motif": "상황 파악",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "당황하다",
+                    "content": "C001는 샹들리에가 떨어진 자리를 보며 주저앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "영지 기사들"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "밖을 지키던 영지 기사들이 급하게 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "영지 기사들"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "무슨 일이 생긴 겁니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001는 멀리서 말을 거는 영지 기사들을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "C001는 본래 게임 속 자신에 대해 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "게임 속 원래 나는 가치 없는 쓰레기였지."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "시도 때도 없이 패악을 저질렀으니 당연한 건가?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 이 최악의 상황에서 끝까지 살아남아야 함을 깨닫는다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "혹시 어디 불편하시진 않습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "저는 문제없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "저를 지켜주셔서 감사합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "험한 말을 하지 않는 것에 영지 기사1은 오히려 더 긴장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "긴장되다",
+                    "content": "관련된 모든 사람들을 처벌할까요?"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "괜찮아요. 그냥 이대로 넘어가죠."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_03",
+            "prev_id": "03_1710_02",
+            "next_id": "03_1710_04",
+            "characters": [
+                "C001",
+                "영지 기사1",
+                "시종",
+                "신하1",
+                "신하들",
+                "C003"
+            ],
+            "stage": "Main Character",
+            "storyline": "자신의 평판을 다시 한번 알게 된 C001는 우선 민심을 바꾸기 위해 회의에 나간다.",
+            "unit_motif": "회의/논의",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "C001는 영지를 이대로 두면 반란이 일어날 거라 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "결정하다",
+                    "emotion": "단호하다",
+                    "content": "반란을 피하기 위해 민심을 달래는 게 필요하다 확신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "C001는 오늘 영지5에 회의가 있음을 기억한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "오늘 회의가 있지?"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나도 참석하겠다고 전해."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "정말이십니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 당황하는 영지 기사들을 두고 회의실로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "시종"
+                    ],
+                    "act": "말하다",
+                    "content": "C001가 회의실에 오고 있음을 알린다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "놀라다",
+                    "content": "그게 진짜야?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "신하들"
+                    ],
+                    "content": "신하들은 영주가 회의에 참석한다는 사실이 믿어지지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C001가 회의실로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "불안하다",
+                    "content": "C003는 영주가 회의에 참석한 것이 불안하다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "오늘 회의해야 하는 내용이 뭐지?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "불안하다",
+                    "content": "영주님께서 왜 궁금해하십니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "영주로서 당연히 해야 하는 일 아닌가?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "경멸하다",
+                    "content": "C003는 영주의 말에 차마 동의할 수 없다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C003의 마음을 이해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "고맙다",
+                    "content": "C001는 C003가 게임 속에서 자신을 대신에 유일하게 영지를 아낀 사람임을 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "오늘 안건 보고해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "신하들"
+                    ],
+                    "act": "보고하다",
+                    "content": "신하들이 영지에서 있었던 일들을 보고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "게임 속 상황처럼 영지가 최악의 상황이라는 것을 알게 된다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "영지의 구휼미를 풀어 영지민을 보살피도록 해."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "혼란스럽다",
+                    "content": "그러다가 영지가 망할 수도 있습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "명령은 바뀌지 않는다며 단호하게 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_04",
+            "prev_id": "03_1710_03",
+            "next_id": "03_1710_05",
+            "characters": [
+                "C004",
+                "C001",
+                "C003"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "영지민들에게 식량을 나눠주겠다는 C001의 결정을 C004가 반대한다.",
+            "unit_motif": "기싸움",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 회의실로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "식량을 풀다니요. 안됩니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "괘씸하다",
+                    "content": "C001는 자신을 반대하는 C004를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "괘씸하다",
+                    "content": "C001는 C004가 영지5를 망하게 하는 사람임을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "괘씸하다",
+                    "content": "그러나 C004의 말을 계속 거부하면 문제가 생긴다는 것을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "백성이 무능해서 생긴 문제를 왜 책임져야 합니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "내 말은 변하지 않아."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "영주가 영지민을 챙기는 것은 당연한 일이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "당황하다",
+                    "content": "C004가 영주를 설득한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "내 명령을 거역하지 마."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "오늘 일은 여기서 마무리해."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "C003는 잠시 내 방으로 와라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 C003를 데리고 회의실을 나간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_05",
+            "prev_id": "03_1710_04",
+            "next_id": "03_1710_06",
+            "characters": [
+                "C004",
+                "간신배"
+            ],
+            "stage": "Ups & Downs",
+            "storyline": "C004는 자신을 무시한 영주를 위협하기로 한다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C004는 영주가 자신을 무시한 것에 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "간신배"
+                    ],
+                    "act": "위로하다",
+                    "content": "간신배들이 C004를 위로한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "간신배"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "영주가 갑자기 저렇게 말하니 당황스럽군요."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "이게 고작 그 정도로 생각할 일입니까!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "화나다",
+                    "content": "C004는 영주의 결정이 어이가 없다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "내 허락도 없이 식량을 풀겠다고?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "이건 영주가 우리를 무시한 겁니다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괘씸하다",
+                    "content": "C004는 자신의 허락 없이 마음대로 결정한 영주가 괘씸하다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괘씸하다",
+                    "content": "네가 진짜 영주인 것 같아?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "괘씸하다",
+                    "content": "나를 무시하면 어찌 되는지 똑똑히 보여주겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "괘씸하다",
+                    "content": "C004는 화를 내며 회의실을 빠져나간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_06",
+            "prev_id": "03_1710_05",
+            "next_id": "03_1710_07",
+            "characters": [
+                "C001",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001는 C004를 제거하기 위해 C003를 설득한다.",
+            "unit_motif": "동료가 됨 (전투/모험의 경우)",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "방으로 돌아온 두 사람은 이야기를 나눈다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "이번에는 대체 무슨 의도이십니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 갑자기 변해버린 영주가 의심스럽다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "C001는 C004를 제거하기 위해선 C003를 설득해야 한다고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "이러지 않으면 내가 죽을 테니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "그게 무슨 말입니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "이대로 두면 결국은 내가 죽는다는 소리야."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "경멸하다",
+                    "content": "이제 와서 그런 소리를 해봤자!"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "내 잘못은 나중에 따지자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "C003는 지금이라도 도망가라고 재촉한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "content": "C001는 과거 영지가 망할 때까지 충성스러웠던 C003를 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나를 도와줘."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "거부감",
+                    "content": "C003는 아직 C001를 믿을 수 없어 고민한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "영주로서 부끄럽지 않게 도와줘."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "content": "C003는 영주의 명을 따른다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C004의 만행을 막자."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_07",
+            "prev_id": "03_1710_06",
+            "next_id": "03_1710_08",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C003를 설득한 C001는 C004를 제거하기 위한 계획을 이야기한다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "난감하다",
+                    "content": "C003는 현실적으로 C004를 제거하기 힘들다며 반대한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004는 배신자야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C004가 영지2와 내통하고 있음을 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "그리고 영지2에서 침투시킨 간첩이 있음을 알린다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "그런 정보를 어디서 얻으신 겁니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C003의 물음을 회피한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004를 없애려면 지금뿐이야."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "난감하다",
+                    "content": "문제가 생기지 않겠습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "생각이 있으니까 날 믿어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 계획이 있다는 C001의 말이 의심스럽다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 의심스럽게 보는 C003를 무시하고 계획을 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "간첩의 위치는 내가 알려줄 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "그러니 당장 잡아."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_08",
+            "prev_id": "03_1710_07",
+            "next_id": "03_1710_09",
+            "characters": [
+                "C004",
+                "C001",
+                "영지 기사들",
+                "C003",
+                "영지 기사1"
+            ],
+            "stage": "Setting-up",
+            "storyline": "세작을 없앤 C001는 C004를 반역죄로 체포하고 처형한다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "성의 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 영주의 명을 받고 방으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성의 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "C004는 영주가 자신을 찾는 이유를 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "성의 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "영주가 이제야 정신을 차린 모양이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성의 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "C004는 자신의 위협이 먹혔다고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성의 복도",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "회상하다",
+                    "content": "C004는 영주가 자신을 무시하자 대부업자를 시켜 빛 독촉을 하게 명령했던 사실을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "회상하다",
+                    "content": "대부업자들이 명령을 시행하자 영주가 자신을 무시하지 않았던 것을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C004가 방으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "영주님께 인사드립니다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "어서 오세요."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "반역자를 잡아와라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "영지 기사들"
+                    ],
+                    "content": "갑자기 영지 기사들이 나타나 C004를 포위한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C004"
+                    ],
+                    "emotion": "당황하다",
+                    "content": "C004는 갑자기 자신을 포박하는 상황이 당황스럽다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "지금 뭐 하시는 겁니까!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 영지2와 내통한 배신자를 잡은 거라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "이때 C003가 방 밖에서 C004의 호위들을 처치하고 등장한다."
+                },
+                {
+                    "type": "script",
+                    "location": "방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "담담하다",
+                    "content": "명령하신 대로 처단하였습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C004를 감옥으로 보내라 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "자신감 있다",
+                    "content": "C004는 감옥 안에서 자신의 명을 받은 사람들이 움직일 거라 믿어 의심치 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥 안",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "이때 영지 기사1이 C004의 부하들을 감옥에 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥 안",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "당황하다",
+                    "content": "C004는 자신의 부하들이 모두 잡혔음을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "죽다",
+                    "content": "C004는 다음날 영주의 명으로 처형당한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_09",
+            "prev_id": "03_1710_08",
+            "next_id": "03_1710_10",
+            "characters": [
+                "신하들",
+                "C001",
+                "C003"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C004를 제거한 C001는 회의에서 영지의 재정이 어렵다는 보고를 받는다.",
+            "unit_motif": "회의/논의",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "content": "C004가 반역죄로 처형당한 뒤 일상처럼 다시 회의가 열렸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "신하들"
+                    ],
+                    "act": "보다",
+                    "emotion": "긴장되다",
+                    "content": "신하들은 갑자기 바뀐 영주를 두렵게 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "신하들"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "의심스럽다",
+                    "content": "신하들은 영주를 폭군으로 생각해 자신들도 피해를 입을까 의심스러워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "회의를 시작하죠."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "난감하다",
+                    "content": "현재 저희 영지의 가장 큰 문제는 자금이 없다는 겁니다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "알고 있어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "난감하다",
+                    "content": "영지의 식량 상황이나 영주의 빚 등 자금이 부족하다 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "난감하다",
+                    "content": "이대로라면 영지가 망할 겁니다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "하지만 영지에서 딱히 자금을 조달할 방법도 없습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "방법이 없는 건 아니야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "의심스럽다",
+                    "content": "C003는 영주의 방법이 있다는 말이 의심스럽다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "정말 생각하신 게 있습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "상쾌하다",
+                    "content": "대출 해달라고 하자."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_10",
+            "prev_id": "03_1710_09",
+            "next_id": "03_1710_11",
+            "characters": [
+                "C003",
+                "C001",
+                "신하들"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001는 영지의 자금을 해결할 방법을 C003에게 말한다.",
+            "unit_motif": "회의/논의",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "C003는 당당하게 돈을 빌리자고 말하는 영주의 말에 황당함을 느낀다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불쾌하다",
+                    "content": "지금 얼마나 어처구니없는 말을 하는지 아시죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "당황하다",
+                    "content": "진정해. 일단 내 이야기를 들어보고 생각해도 되잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "듣다",
+                    "emotion": "불쾌하다",
+                    "content": "C003는 영주가 어떤 말도 안 되는 이야기를 하려는지 듣기로 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "당황하다",
+                    "content": "영지 상황이 심각하니까 일단은 빌리자는 거지."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "영지 상황을 다 아는데 어느 누가 돈을 빌려줍니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C001는 구할 수 있는 영지가 있다고 단호하게 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "어떤 사람이오?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "영지2는 분명 대출해줄 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "C003는 적의 영지에서 돈을 빌리자는 영주의 말에 이성을 잃고 위협한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "신하들"
+                    ],
+                    "act": "말리다/멈추다",
+                    "content": "신하들이 C003를 필사적으로 말린다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "경멸하다",
+                    "content": "설마 적에게 돈을 빌리자는 겁니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "당황하다",
+                    "content": "계획이 있어서 그런 거라니까!"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "설명해보십시오."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "부끄럽다",
+                    "content": "돈을 빌리는 건 맞는데 돌려주지는 않아도 돼."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "황당하다",
+                    "content": "C003는 무슨 말도 안 되는 소리냐며 황당해한다.]."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "영지2는 없어질 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "황당하다",
+                    "content": "C003는 영주의 어처구니없는 대답에 황당해한다."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "조금만 지나면 내 말이 맞는다는 걸 알게 될 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "그리 확신하는 이유는요?"
+                },
+                {
+                    "type": "script",
+                    "location": "회의실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "부끄럽다",
+                    "content": "그럴 것이라는 느낌이 들어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "C003는 어처구니없는 영주의 답을 듣고 난동을 부린다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_11",
+            "prev_id": "03_1710_10",
+            "next_id": "03_1710_12",
+            "characters": [
+                "C005",
+                "신하1"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "영지5의 신하1은 영주의 명으로 영지2에서 돈을 빌린다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "C005은 자신이 들은 요청이 진짜인지 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "황당하다",
+                    "content": "대출을 해달라고?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "동의하다",
+                    "content": "맞습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "황당하다",
+                    "content": "상황이 그 정도로 어려울 줄은 몰랐네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "말하다",
+                    "content": "신하1은 영지5의 자금 상황이 어렵다며 도와달라 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기쁘다",
+                    "content": "C005은 지금이 영지5를 얻을 기회라고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기쁘다",
+                    "content": "C001 너는 나에게 돈을 빌린 걸 후회하게 될 거다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "도와줄게."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "신하1은 C005의 결정을 기뻐한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "단 그냥 빌려주는 건 안된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "C005은 돈을 빌리기 위해선 영지5를 담보로 걸라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "기쁘다",
+                    "content": "신하1은 C005의 조건을 바로 수락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "회상하다",
+                    "content": "신하1은 영주의 말을 떠올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "회상하다",
+                    "content": "신하1은 영주가 조건은 전부 수락하되 무조건 상환일을 늦춰야 한다는 말을 기억한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "제안하다",
+                    "emotion": "담담하다",
+                    "content": "C005은 세 달 안에 갚을 자신이 있으면 수락하라 제안한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지2",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "신하1은 C005의 제안을 수락하고 계약을 진행한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_12",
+            "prev_id": "03_1710_11",
+            "next_id": "03_1710_13",
+            "characters": [
+                "신하1",
+                "C001",
+                "C003"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001는 빌린 자금을 사용한다. C003는 정말 C001가 빌린 돈을 해결할 능력이 있는지 의심한다.",
+            "unit_motif": "견제/정쟁/정치",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "신하1"
+                    ],
+                    "content": "영지2에서 받은 금괴들을 가지고 영지5로 돌아온다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "이 자금으로 당장 해결해야 하는 문제들을 해결해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "답답하다",
+                    "content": "C003는 영주의 명령을 따르나 답답하다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "답답하다",
+                    "content": "이대로 모든 게 끝인가."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "답답하다",
+                    "content": "C003는 영주의 계획을 알 수 없어 답답하다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "정말 해결하실 수 있는 겁니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "나만 믿어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "content": "C003는 다음날이 돼도 아무것도 하지 않는 영주를 보고 답답해한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "의심스럽다",
+                    "content": "영지2 문제를 해결한다 하지 않으셨습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "해결해야지?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "답답하다",
+                    "content": "왜 계속 놀고 있습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "다 생각이 있어. 기다려."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_13",
+            "prev_id": "03_1710_12",
+            "next_id": "03_1710_14",
+            "characters": [
+                "C003",
+                "영지 기사1"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C003는 기사로부터 망자가 나타났다는 보고를 듣게 된다.",
+            "unit_motif": "현실(상황) 직면",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "C003는 상환 일이 얼마 남지 않았음을 깨닫는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 해결 방법을 듣기 위해 영주에게 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "C003는 방을 지키던 영지 기사1에게 영주의 행방을 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "대답한다",
+                    "content": "영지 기사는 영주가 술을 마시고 있다고 답한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "경멸하다",
+                    "content": "술을 먹고 있다고?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "경멸하다",
+                    "content": "역시 믿으면 안 되는 사람이었나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "content": "그때 영지 기사가 다급하게 C003에게 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "긴장되다",
+                    "content": "기사단장님 망자가 나타났습니다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "듣다",
+                    "emotion": "긴장되다",
+                    "content": "C003는 영지 북쪽에서 다수의 망자가 나타났다는 보고를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "듣다",
+                    "emotion": "긴장되다",
+                    "content": "망자의 대군에 C003는 영지5의 힘으론 막을 수 없음을 깨닫는다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "지금 당장 전 병력 집결하라고 해."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "난 지금 영주님에게로 간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_14",
+            "prev_id": "03_1710_13",
+            "next_id": "03_1710_15",
+            "characters": [
+                "C003",
+                "시종",
+                "영지 기사1"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C003는 망자의 상황을 알리기 위해 C001를 찾는다.",
+            "unit_motif": "배신",
+            "causality": "Setback(후퇴/역행/좌절)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003는 보고를 하기 위해 영주를 찾아 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "content": "C003는 영주의 행방에 대해 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "시종"
+                    ],
+                    "act": "대답한다",
+                    "content": "영주님께서는 여기 없습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "난감하다",
+                    "content": "C003는 영주를 찾을 수 없자 결국 직접 명령을 내린다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "모든 영지민에게 피난 지시를 내려라."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "비장하다",
+                    "content": "그리고 전군 끝까지 영지를 사수하라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "content": "영지5민들은 대피령을 듣고 급하게 피난을 준비한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "불안하다",
+                    "content": "C003는 밤이 되도록 영주가 나타나지 않자 불안함에 물어본다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "불안하다",
+                    "content": "영주 님의 행방은 찾았나?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "영지 기사1은 자신이 마지막으로 영주를 본 것 같다 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "content": "지금 어디에 있으신가?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "난감하다",
+                    "content": "영지 기사1은 영주가 영지를 빠져나가는 걸 봤다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "그리고 지금 나가야 살 수 있다는 영주의 혼잣말을 들은 것 같다고 답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "화나다",
+                    "content": "C003는 영주가 도망 갔다고 확신한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_15",
+            "prev_id": "03_1710_14",
+            "next_id": "03_1710_16",
+            "characters": [
+                "C001",
+                "C006"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001는 영지를 빠져나가 망자 진영으로 향한다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001는 망자가 있는 진영으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "C001는 자신이 영지를 버렸을 거라 생각할 영지민들을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "영지 버린 거 아니니까 조금만 기다려라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "C001는 망자가 나타난 것 또한 계획 중 하나였다 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "content": "한참을 가던 C001는 드디어 C006을 만난다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "여길 어떻게 온 거냐?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "content": "C001는 망자 군주 C006에 대해 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "content": "C001는 C006이 왕국을 건설하려다 봉인 당한 사실을 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "C006를 뵙게 되어 영광입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C006를 뵙게 되어 영광입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 영지5 대대로 이어진 예언이 있다며 거짓말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "내가 다시 나타날 것을 알았단 말이냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "물론입니다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "긴장되다",
+                    "content": "저를 거둬주신다면 왕국을 건설하도록 돕겠습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "싸움에 재능은 없어 보이는데 무슨 방법으로?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 자신이 정치적인 재능이 있다고 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "C001는 C006의 치명적 약점이 바로 정치력의 부재라고 확신한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "기대되다",
+                    "content": "나에게 유일하게 없는 것이지."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "나에게 증명할 수 있겠어?"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "안심/안도하다",
+                    "content": "최선을 다하겠습니다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_16",
+            "prev_id": "03_1710_15",
+            "next_id": "03_1710_17",
+            "characters": [
+                "영지 기사1",
+                "C003"
+            ],
+            "stage": "Defeat",
+            "storyline": "C003는 C001가 망자의 앞잡이가 되었다는 보고를 듣는다.",
+            "unit_motif": "계략을 파악",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "content": "정찰을 하던 영지 기사1이 급하게 C003에게 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "긴장되다",
+                    "content": "기사단장님 급히 보고드립니다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "기사단장님 급히 보고드립니다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "괘씸하다",
+                    "content": "영주가 망자랑 손을 잡은 것 같습니다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "괘씸하다",
+                    "content": "영지 기사1은 정찰 중인 부대가 망자와 같이 있는 영주를 봤다고 설명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "화나다",
+                    "content": "C003는 영주가 최악의 인간이라는 걸 다시 한번 깨닫는다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "난감하다",
+                    "content": "그런데 망자가 영지2로 이동하고 있다고 합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "놀라다",
+                    "content": "보고를 들은 C003는 C001와 했던 이야기를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "놀라다",
+                    "content": "C003는 C001가 영지2가 망할 거라는 말을 했던 사실을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "의심스럽다",
+                    "content": "설마 이렇게 될 걸 알고 있었다고?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "고민하다",
+                    "emotion": "당황하다",
+                    "content": "C003는 C001가 진짜 계획이 있었던 건 아닌지 고민한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_17",
+            "prev_id": "03_1710_16",
+            "next_id": "03_1710_18",
+            "characters": [
+                "C001",
+                "C006"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001는 C006을 이용하여 영지2를 없앨 계획을 세운다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "두 사람은 앞으로의 계획을 이야기한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "내가 이제 어떻게 움직이면 되지?"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "당장은 병력을 늘리는 게 가장 중요합니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 함부로 움직이면 인간 진영이 뭉쳐서 대응할 거라 조심해야 한다 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "이대로 가만히 있는다고 힘이 생기진 않아."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "하나씩 공격하여 우리의 세력을 더 키워야죠."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 인간 진영이 연합하지 못하도록 하는 방법을 설명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "그리고 하나씩 공략하면 세력을 더 강하게 만들 수 있다며 설득한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "영지2를 먼저 공격하셔야 합니다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "그래야 하는 이유가 있나?"
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "지형적 이점을 위해서 영지2를 공격하는 게 최선입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 영지2를 시작으로 차례대로 정복하라 설득한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "동의하다",
+                    "emotion": "감탄하다",
+                    "content": "C006은 훌륭한 전략이라며 동의한다."
+                },
+                {
+                    "type": "script",
+                    "location": "평원",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "의견을 받아들이겠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "거짓말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 자신도 영지 군을 이끌고 지원하겠다고 답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C006을 속인 후 영지5로 돌아간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_18",
+            "prev_id": "03_1710_17",
+            "next_id": "03_1710_19",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "영지5로 돌아온 C001는 C003에게 C006을 잡을 계획을 알려준다.",
+            "unit_motif": "계략을 꾸밈",
+            "causality": "Bold approach(과감한 결정)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C003는 망자가 영지2로 가고 있는 것이 진짜 C001의 계획인지 혼란스럽다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C003는 조만간 영지2가 망할 것이라고 얘기하던 C001의 말을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "C003는 혹시 모를 사태를 대비하기 위해 병사들에게 명령한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "만일을 위해 경계태세를 그대로 유지해라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "이때 C001가 석상 뒤에서 C003를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C003는 갑자기 나타난 C001를 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "무슨 생각으로 여기에 나타난 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "담담하다",
+                    "content": "보는 사람이 많으니 우선 자리를 옮기자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C001",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "두 사람은 조용한 곳으로 장소를 옮긴다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "괘씸하다",
+                    "content": "영지를 버린 것도 모자라 적에게 빌붙은 영주가 무슨 생각으로 여길 온 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "불쾌하다",
+                    "content": "분명 난 너에게 다 생각이 있다고 말했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "혼란스럽다",
+                    "content": "C003는 정말 망자를 끌어들인 것이 계획이었던 것인지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "이미 망자가 영지2로 가고 있다는 걸 알고 있을 텐데?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "믿으려면 끝까지 믿어. 결과로 증명할 테니까."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 C003에게 앞으로의 계획을 설명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C006은 내 계획대로 움직일 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C001는 망자가 영지2를 거쳐 영지4까지 진군할 거라 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "영지5군을 내가 말한 지점에 대기시켜놔."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C001가 지도를 꺼내 한 지역을 손으로 가리킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "거기는 대체 왜?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "단호하다",
+                    "content": "우리는 C006의 본체를 공격한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_19",
+            "prev_id": "03_1710_18",
+            "next_id": "03_1710_20",
+            "characters": [
+                "C003",
+                "신하1",
+                "C006"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C003는 영주가 영지를 배신한 게 아님을 신하들에게 설명한다.",
+            "unit_motif": "개과천선",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "난감하다",
+                    "content": "C003는 신하들에게 영주의 계획에 대해 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "당황하다",
+                    "content": "신하1은 영주가 영지를 버리지 않았다는 사실에 당황스러워한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "당황하다",
+                    "content": "영주가 영지를 버린 게 아니라고?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지5",
+                    "character": [
+                        "신하1"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "당황하다",
+                    "content": "신하1은 영주가 직접 적진에서 작전을 수행했다는 사실이 믿기 어렵다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "단호하다",
+                    "content": "영주님은 각오하고 망자에게 간 것이니 믿어도 돼."
+                },
+                {
+                    "type": "script",
+                    "location": "영지5",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "우리는 영주 님의 명을 따라 망자를 공격한다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "content": "그 시각 망자는 무서운 기세로 각 영지들을 점령하고 마지막 영지4 앞까지 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "평원",
+                    "content": "망자와 영지4군이 격렬하게 싸운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "뿌듯하다",
+                    "content": "영지1에 머무르던 C006의 본체는 전투 상황을 지켜본다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "content": "이 전쟁을 시작으로 세력을 넓혀갈 것이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C006은 자신의 본체가 있는 지역에 군대가 오는 걸 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "여기를 어떻게 알고 온단 말인가!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C006은 군대의 전방에 C001가 있는 걸 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C006은 자신이 C001에게 속았음을 알고 화를 낸다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_20",
+            "prev_id": "03_1710_19",
+            "next_id": "03_1710_21",
+            "characters": [
+                "C001",
+                "C003",
+                "신하들",
+                "이오타군"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 이오타군에 합류하여 전쟁에 참여한다.",
+            "unit_motif": "전투 준비",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001가 영지5군에 합류한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "따르다/응하다",
+                    "content": "C003는 영주에게 충성하고 있는 모습을 보이기 위해 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "신하들"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "신하들은 영주가 진짜 변했음을 확인하고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 태어나 처음 겪는 전쟁에 긴장한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "긴장되다",
+                    "content": "C001는 충성심이 낮은 병사들의 마음을 돌리기 위해선 직접 참가해야 한다고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "성지",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "할 수 있으시겠습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "성지",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "걱정",
+                    "content": "처음 참전하시는 거잖습니까."
+                },
+                {
+                    "type": "script",
+                    "location": "성지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "긴장되다",
+                    "content": "신뢰를 얻기 위해서라도 나는 참가해야 해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "C001는 이오타군에 전투를 시작하라 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "이오타군"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "이오타군은 영주의 명령을 듣고 당황한다."
+                },
+                {
+                    "type": "script",
+                    "location": "성지",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "단호하다",
+                    "content": "적을 섬멸하라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "성지",
+                    "character": [
+                        "이오타군"
+                    ],
+                    "act": "공격하다",
+                    "content": "이오타군은 C003의 명령을 듣고 적을 향해 공격한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_21",
+            "prev_id": "03_1710_20",
+            "next_id": "03_1710_22",
+            "characters": [
+                "C001",
+                "망자1",
+                "C003",
+                "C006",
+                "망자2",
+                "이오타군"
+            ],
+            "stage": "Resurrection",
+            "storyline": "이오타군과 망자 양측의 전투가 시작된다.",
+            "unit_motif": "전쟁/전투/토벌",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "content": "이오타군이 망자와 전투를 벌이고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "C001는 전투로 인해 죽는 병사들을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "무섭다",
+                    "content": "C001는 죽는 병사들을 보며 전쟁의 무서움에 대해 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "망자1"
+                    ],
+                    "act": "공격하다",
+                    "content": "망자1이 C001를 보고는 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "지키다/보호하다",
+                    "content": "C003가 망자1을 물리치고 C001를 지킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "멍하니 있으면 안 됩니다!"
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "싸우세요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "C001는 C003의 말에 정신을 차리고 망자를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "content": "C006이 망자 병사에 빙의하여 C001를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "화나다",
+                    "content": "감히 나를 배신해?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "경고하다",
+                    "emotion": "화나다",
+                    "content": "너는 오늘 여기서 죽는다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "명령하다",
+                    "content": "C006이 망자에게 C001를 죽이라 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "망자2"
+                    ],
+                    "act": "공격하다",
+                    "content": "망자2는 C006의 명령대로 C001를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "이오타군"
+                    ],
+                    "act": "지키다/보호하다",
+                    "content": "이오타군은 망자2에게 공격받는 영주를 보고 지킨다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "C003! 안쪽에 C006의 본체가 있다. 처치해."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "반대하다",
+                    "emotion": "망설이다",
+                    "content": "C003는 C001를 지키기 위해 갈 수 없다고 반대한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "단호하다",
+                    "content": "나는 내가 알아서 할 테니 어서 가!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C003는 C001의 말을 듣고 C006을 찾아 나선다."
+                }
+            ]
+        },
+        {
+            "id": "03_1710_22",
+            "prev_id": "03_1710_21",
+            "characters": [
+                "C001",
+                "이오타군",
+                "망자3",
+                "영지 기사1",
+                "C006",
+                "C003"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C001는 C006을 피해 도망 다니고 C003는 C006의 본체를 처치한다.",
+            "unit_motif": "전쟁/전투/토벌",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "content": "C001는 지형지물을 이용해 망자를 따돌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "이오타군"
+                    ],
+                    "act": "방어하다",
+                    "content": "이오타군은 C001를 지키기 위해 망자를 막는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "망자3"
+                    ],
+                    "act": "방해하다",
+                    "content": "이때 망자3이 나타나 C001가 도망가는 길을 막는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "영지 기사1"
+                    ],
+                    "act": "공격하다",
+                    "content": "영지 기사1이 영주의 앞을 지키며 망자3을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C006이 망자3의 몸에 들어와 영지 기사1을 상대한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "죽이다",
+                    "content": "C006이 영지 기사1과 병사들을 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "쓰러지다",
+                    "content": "이때 C001도 C006의 공격에 쓰러진다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "이제 더 이상은 도망가지 못한다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "괘씸하다",
+                    "content": "죽음으로 배신의 대가를 치러라!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "공격하다",
+                    "content": "C006이 C001를 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "도망치다",
+                    "content": "C001는 C006의 공격을 피해 돌무더기로 도망간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006이 C001를 따라 돌무더기로 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "돌무더기에 숨어있던 C001는 C006이 들어오자 돌무더기를 발로 차 무너뜨린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "쓰러지다",
+                    "content": "C006은 돌무더기에 깔려 쓰러진다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "C001! 너는 반드시 죽인다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "넌 날 죽이지 못해."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "그래도 네 덕분에 내 세력이 커질 수 있겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "대체 뭐가 내 덕이라는 거냐?"
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "나 대신 다른 영지들을 초토화시켜 준 덕분에 점령하는 게 쉬워졌거든."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C006은 자신이 C001에게 이용당했음에 소리치며 화를 낸다."
+                },
+                {
+                    "type": "script",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "절대 너를 가만두지 않겠다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "죽이다",
+                    "content": "이때 C003가 C006의 본체를 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "죽다",
+                    "content": "분노하던 C006은 C003의 공격으로 인해 죽음을 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "영지1",
+                    "content": "C006의 죽음으로 인해 전투는 이오타군의 승리로 끝난다."
+                }
+            ]
+        }
+    ]
+}

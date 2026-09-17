@@ -1,0 +1,1416 @@
+{
+    "id": "03_2138",
+    "type": "novel",
+    "title": "더 레전드",
+    "genre": [
+        "판타지"
+    ],
+    "year": 2007,
+    "theme": "모험",
+    "concept": "가상현실 로열 로드를 배경으로 주인공 C001가 펼치는 모험이 내용의 주를 이룬다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "마법사(마녀)",
+    "main_character": "청년",
+    "conflict": "C001은 자신이 처한 가난을 극복하기 위해 가상현실 게임에서 돈을 벌려고 한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007"
+    ],
+    "units": [
+        {
+            "id": "03_2138_01",
+            "next_id": "03_2138_02",
+            "characters": [
+                "C001",
+                "할머니1",
+                "시스템"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C001이 집으로 들어가 자신의 게임 계정을 팔아서 돈을 마련하려고 한다.",
+            "unit_motif": "현실(상황) 직면",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "C001이 집으로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "할머니1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "지금 들어오니?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "C002은 어디 있어요?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "할머니1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "글쎄 잘 모르겠구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001이 컴퓨터를 켠다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001이 게임에 접속한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "시스템"
+                    ],
+                    "content": "계정을 삭제하겠습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "아니다. 계정을 팔면 돈이 되지 않을까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001이 캐릭터 거래 사이트에 접속한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "담담하다",
+                    "content": "여기서 거래하면 되겠지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001이 자신의 캐릭터를 거래 사이트에 올린다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_02",
+            "prev_id": "03_2138_01",
+            "next_id": "03_2138_03",
+            "characters": [
+                "C001",
+                "E001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "회사 직원이 C001에게 사이트에 올린 캐릭터가 큰 금액에 거래되었음을 알려준다.",
+            "unit_motif": "극복",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "content": "C001의 전화가 울린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "연락하다",
+                    "content": "C001이 전화를 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "누구시죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저는 회사 비서 E001 입니다. 낙찰된 게임 캐릭터 거래 금액을 보내드렸으니 확인 후 연락 주세요."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "네? 그게 무슨 말씀이죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "거래 사이트에 올리신 게임 캐릭터는 큰 금액에 낙찰되었습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "장난하실 거면 전화 끊습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001은 수화기를 내려놓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001이 거래 사이트에 접속한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "놀라다",
+                    "content": "C001은 거래 사이트에서 거래 가격을 확인하고 놀라 소리친다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_03",
+            "prev_id": "03_2138_02",
+            "next_id": "03_2138_04",
+            "characters": [
+                "C003",
+                "C001"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "사채업자 C003은 C001이 큰돈을 번 사실을 알고 병원에 찾아와 C001에게 빚을 갚을 것을 요구한다.",
+            "unit_motif": "시련",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "사채업자인 C003이 병실 안으로 들어온다."
+                },
+                {
+                    "type": "script",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "무감각함",
+                    "content": "이번에 큰돈을 벌었다며? 너희 아버지가 빌린 돈 다시 받으러 왔다."
+                },
+                {
+                    "type": "script",
+                    "location": "병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "긴장되다",
+                    "content": "좋아, 얼마를 주면 되지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "C003은 C001에게 갚아야 하는 금액을 알려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "말도 안 돼 거짓말이지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "웃는다",
+                    "emotion": "무감각함",
+                    "content": "C003이 웃는다."
+                },
+                {
+                    "type": "script",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "무감각함",
+                    "content": "시간이 많이 지났잖아, 그만큼 갚을 돈도 늘어나는 거지. 못 갚으면 너희 가족한테 무슨 일이 일어날지 몰라."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "슬프다",
+                    "content": "C001이 캐릭터를 팔아 번 돈을 사채업자들에게 넘긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "content": "C003이 C001에게 계산 후 남은 금액은 돌려준다."
+                },
+                {
+                    "type": "script",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "됐다. 이제 우린 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C003이 병실에서 나간다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_04",
+            "prev_id": "03_2138_03",
+            "next_id": "03_2138_05",
+            "characters": [
+                "C001",
+                "C004",
+                "시스템"
+            ],
+            "stage": "Main Character",
+            "storyline": "게임에 접속한 C001은 게임의 게임 속 성에 있는 수련장에서 목검 수련을 하다가 C004에게 직업2 조사 퀘스트를 받게 된다.",
+            "unit_motif": "임무 부여",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C001의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001은 게임에 접속한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수련한다",
+                    "content": "C001은 허수아비에 목검을 휘두르고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "기대되다",
+                    "content": "배고픈 C001은 맛있는 냄새를 맡고 C004을 쳐다본다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "반갑다",
+                    "content": "안녕하세요?"
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "자네가 무슨 일인가?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001의 배에서 꼬르륵 소리가 난다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "배고픈 모양인데! 마침 도시락을 많이 가져와서 같이 먹지!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "content": "C001과 C004은 도시락을 같이 먹는다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "자네 혹시 스킬1을 어떻게 생각하고 있지?"
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "저는 검사입니다! 스킬1에 대해서는 깊게 생각해 본 적이 없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "요청하다",
+                    "emotion": "궁금하다",
+                    "content": "그래도 전설의 직업2에 대해 소문이 많아서 말이야, 혹시 이 건에 대해 조사해 줄 수 있나?"
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "묻는다",
+                    "content": "직업2 조사 퀘스트를 수락하시겠습니까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 수련장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "기쁘다",
+                    "content": "C001은 직업2 조사 퀘스트를 수락한다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_05",
+            "prev_id": "03_2138_04",
+            "next_id": "03_2138_06",
+            "characters": [
+                "C001",
+                "음유시인1"
+            ],
+            "stage": "Setting-up",
+            "storyline": "직업2 조사 퀘스트를 위해 C001은 게임 속 성의 주점에서 음유시인1을 찾아가 음유시인1에게 직업2에 관한 이야기를 듣는다.",
+            "unit_motif": "임무 수행",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001이 게임 속 성 주점으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "C001이 음유시인1을 찾는다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "물어보고 싶은 게 있는데, 혹시 직업2에 대해서 아시나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "음유시인1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "돈을 주면 알려주지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "화나다",
+                    "content": "C001이 동전을 음유시인1에게 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "음유시인1"
+                    ],
+                    "act": "받는다",
+                    "emotion": "기쁘다",
+                    "content": "음유시인1이 동전을 받는다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "음유시인1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "E002라는 직업2가 왕비에게 엄청난 조각품을 보여줬고 왕비는 그 조각품에 엄청 감동했다는 이야기가 있더군."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "더 자세하게는 알 수 없나요?"
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "음유시인1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "글쎄, 그 당시 시녀1가 살아있으니까 그 사람에게 들으면 될 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성 주점",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "실망하다",
+                    "content": "C001은 주점을 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_06",
+            "prev_id": "03_2138_05",
+            "next_id": "03_2138_07",
+            "characters": [
+                "C001",
+                "시녀1",
+                "시스템"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001은 음유시인1이 알려준 시녀1를 찾아가 직업2에 대한 이야기를 듣고 아이템1과 왕비의 손수건을 받게 된다.",
+            "unit_motif": "임무 수행",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001이 시녀1의 집에 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "왕비님과 직업2에 대해 알고 싶어서 왔습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "시녀1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "그립다",
+                    "content": "왕비님은 좋은 분이었어요! 그 일에 관해 알고 싶으시다고요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001은 의자에 앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "시녀1"
+                    ],
+                    "content": "시녀1도 따라서 의자에 앉는다."
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "네, 그렇습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "시녀1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "왕실에 암살자들이 들어온 적이 있어요. 그때 왕비님은 궁지에 몰렸습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "비겁한 놈들이군요!"
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "시녀1"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "하지만, E002라는 직업2가 희귀한 스킬1을 사용해서 그 암살자들을 물리쳤고 왕비님은 감동하셨습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "말하다",
+                    "content": "레벨업 하였습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "시녀1"
+                    ],
+                    "act": "준다",
+                    "emotion": "기쁘다",
+                    "content": "시녀가 C001에게 아이템1과 왕비의 손수건을 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시녀1의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "emotion": "놀라다",
+                    "content": "C001이 아이템1과 왕비의 손수건을 받는다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_07",
+            "prev_id": "03_2138_06",
+            "next_id": "03_2138_08",
+            "characters": [
+                "C005",
+                "C001",
+                "시스템"
+            ],
+            "stage": "Setting-up",
+            "storyline": "자신에게 맞는 직업을 찾고 직업2 퀘스트를 완료하기 위해 C005를 찾아간 C001은 C005에게 토벌 퀘스트를 받게 된다.",
+            "unit_motif": "임무 수행",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "짜증나다",
+                    "content": "C005가 자신의 집 앞으로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "기대되다",
+                    "content": "C001이 C005에게 왕비의 손수건을 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "이걸 드리기 위해 왔습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "놀라다",
+                    "content": "아니 어떻게 이걸 찾은 거지! 나와 얘기를 하지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001",
+                        "C005"
+                    ],
+                    "content": "C001과 C005가 집 안으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "귀찮다",
+                    "content": "소원을 한가지 말하면 들어주겠네."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "저에게 맞는 직업을 찾기 위해 왔습니다. 추천하실 직업이 있나요?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "기대되다",
+                    "content": "C001이 자신의 상태 창을 C005에게 보여준다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "자네한테 맞는 의뢰가 있는데 그걸 해결하면 직업을 가질 수 있네. 하겠는가?"
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "말하다",
+                    "content": "토벌 퀘스트를 수행하겠습니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "하겠습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "따르다/응하다",
+                    "emotion": "담담하다",
+                    "content": "C001은 의뢰를 수락한다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_08",
+            "prev_id": "03_2138_07",
+            "next_id": "03_2138_09",
+            "characters": [
+                "C001",
+                "C004",
+                "C006",
+                "C004의 아내"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004의 집에 저녁 초대를 받은 C001은 그곳에서 C006을 만나게 된다.",
+            "unit_motif": "만남",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001과 C004이 집으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "궁금하다",
+                    "content": "C001은 식탁에 앉아 있는 C006을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "소개하지, 이쪽은 C001이고 앉아 있는 사람은 C006이라고 하네."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "처음 뵙습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "무감각함",
+                    "content": "C006은 C001을 쳐다만 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "미안하다",
+                    "content": "이해하게. 저 아이가 말을 할 줄 몰라서 그래."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "괜찮습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004의 아내"
+                    ],
+                    "act": "준다",
+                    "emotion": "기쁘다",
+                    "content": "C004의 아내가 식탁에 음식을 놓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001",
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "먹는다",
+                    "content": "C004, C001, C006은 식사를 하기 시작한다."
+                },
+                {
+                    "type": "script",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "음식이 굉장히 맛있습니다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "기쁘다",
+                    "content": "C001은 계속 식사를 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_09",
+            "prev_id": "03_2138_08",
+            "next_id": "03_2138_10",
+            "characters": [
+                "C001",
+                "C007",
+                "망아지1"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C005에게 토벌 퀘스트를 받은 C001은 게임 속 성문 앞에서 토벌 원정대에 합류한다.",
+            "unit_motif": "임무 수행",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C001이 게임 속 성문 앞에 도착한다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "자네가 C001인가?"
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "네, 맞습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "무감각함",
+                    "content": "C007은 C001의 상태를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "갈 길이 멀어서 말을 타고 가야 하네. 자네한테 이 말을 빌려주지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "준다",
+                    "emotion": "담담하다",
+                    "content": "C007이 C001에게 망아지1을 건넨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "실망하다",
+                    "content": "C001이 망아지1의 상태를 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "실망하다",
+                    "content": "잘 지내보자."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "C001이 망아지1를 타려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "망아지1"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "망아지1이 C001을 걷어찬다."
+                },
+                {
+                    "type": "script",
+                    "location": "게임 속 성문 앞",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기대되다",
+                    "content": "이제 그만 출발하자!"
+                }
+            ]
+        },
+        {
+            "id": "03_2138_10",
+            "prev_id": "03_2138_09",
+            "next_id": "03_2138_11",
+            "characters": [
+                "C001",
+                "망아지1",
+                "벌레들",
+                "E003",
+                "시스템"
+            ],
+            "stage": "1st Accident",
+            "storyline": "던전에서 C001은 토벌 퀘스트를 수행하기 위해 던전의 숨겨진 굴을 찾아내고 몬스터를 토벌한다. 그 장소에서 E004의 편지를 발견한다.",
+            "unit_motif": "임무 수행",
+            "causality": "Test(시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "놀라다",
+                    "content": "C001이 던전에서 숨겨진 굴을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "긴장되다",
+                    "content": "근처에 보는 사람은 없겠지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001",
+                        "망아지1"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C001과 망아지가 굴 안쪽으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "긴장되다",
+                    "content": "C001이 거대한 벌레들을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "벌레들"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "무감각함",
+                    "content": "벌레들이 C001에게 달려든다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "긴장되다",
+                    "content": "병사들이 있었다면 좋았을 텐데."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C001이 벌레들을 물리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "화나다",
+                    "content": "E003이 나타난다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "비장하다",
+                    "content": "저놈만 잡으면 이제 끝이다!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "C001이 E003의 머리를 검으로 벤다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "E003"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "절망하다",
+                    "content": "E003이 쓰러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "기대되다",
+                    "content": "C001이 보물상자를 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "기쁘다",
+                    "content": "C001은 보물상자 안에서 E004의 편지를 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전",
+                    "character": [
+                        "시스템"
+                    ],
+                    "act": "말하다",
+                    "content": "희귀한 직업2가 되었습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "던전",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "중얼거리다/혼잣말하다",
+                    "emotion": "실망하다",
+                    "content": "이렇게 될 거라면 검사가 될걸."
+                }
+            ]
+        },
+        {
+            "id": "03_2138_11",
+            "prev_id": "03_2138_10",
+            "characters": [
+                "C001",
+                "C005"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001은 토벌 퀘스트 완료 보고를 하기 위해 C005의 집으로 가고 유물을 보상으로 받는다.",
+            "unit_motif": "보상 획득",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001이 C005의 집으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "감탄하다",
+                    "content": "정말 그 일을 해낼 줄이야 놀랍구나."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "뿌듯하다",
+                    "content": "힘들었습니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "준다",
+                    "emotion": "감탄하다",
+                    "content": "C005는 C001에게 유물을 건넨다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "이게 뭐죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "E004의 유물이지. 이제 이건 자네 물건일세."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "담담하다",
+                    "content": "C001이 유물의 상태를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "이 유물이 어떤 의미입니까?"
+                },
+                {
+                    "type": "script",
+                    "location": "C005의 집",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "나도 잘 모르지만 스킬1의 마스터를 찾는다면 알 수 있을 걸세."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C005의 집",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C001은 C005의 집을 나온다."
+                }
+            ]
+        }
+    ]
+}

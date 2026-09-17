@@ -1,0 +1,3012 @@
+{
+    "id": "03_1464",
+    "type": "novel",
+    "title": "학교폭력",
+    "genre": [
+        "드라마"
+    ],
+    "year": 1992,
+    "theme": "도전",
+    "concept": "C002가 전학을 와서 C002와 C001의 대립으로 C002는 정당함을 이야기하지만 무소불위의 권력에 순응한다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "독재정치",
+    "main_character": "순진함",
+    "conflict": "서울에서 전학 온 C002는 학급을 독재자 C001에 반기를 들지만 철저하게 권력으로 인한 고립으로 C002를 따르게 된다. 서울에서 여선생님이 전근 와서 그 상황을 정리하자 C001는 학교를 도망가고 C001에게 괴롭힘을 당하던 아이들이 환호를 하자 C002는 아이들의 이중적인 행동에 괴리감에 빠진다.",
+    "characters": [
+        "C001",
+        "C002"
+    ],
+    "units": [
+        {
+            "id": "03_1464_01",
+            "next_id": "03_1464_02",
+            "characters": [
+                "C002"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "회사를 그만두고 학원을 하는 C002는 동창으로부터 C001가 최 선생의 장례식에 올 것이라는 소식을 듣는다.",
+            "unit_motif": "똑똑한 바보",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "학원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "content": "C002가 학원 강단에서 영어 강의를 하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "content": "그는 영어를 읽고 해석하며 자유가 위협받고 있던 시기에 대부분의 세대는 자유를 지키지 못했다는 말을 강조한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학원",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "씁쓸하다",
+                    "content": "종이 치고 소란해지자 C002는 쓸쓸한 표정으로 수업을 마친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "고깃집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "content": "C002가 동창과 함께 술을 마신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "고깃집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "안타깝다",
+                    "content": "동창은 회사를 그만두고 학원 강사를 하는 C002에게 일이 잘 맞는지 물으며 국민학교 선생님이셨던 최 선생의 부음 소식을 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "고깃집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "content": "동창생은 5학년 때 급장을 하던 C001가 상갓집으로 올 거라고 얘기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "고깃집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "content": "C002는 생각에 잠긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "멀리서 기차가 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C002는 기차를 타고 가며 생각에 잠긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "카메라가 빠르게 지나가는 창밖 풍경을 비추고 C002는 지난날의 기억을 떠올리려 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_02",
+            "prev_id": "03_1464_01",
+            "next_id": "03_1464_03",
+            "characters": [
+                "C002"
+            ],
+            "stage": "Main Character",
+            "storyline": "서울에서 전학 온 C002는 담임선생님을 만나 인사를 하고 교실로 향한다.",
+            "unit_motif": "낯선 곳으로의 이주",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "국민학교 5학년인 C002가 창밖을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기차",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 전근을 가게 된 공무원 아버지를 따라 잘 나가던 서울 학교에서 시골로 전학을 가게 된 사실을 설명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골역",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "content": "시골역에 도착한 C002가 주변을 두리번거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 강 다리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "괴롭다",
+                    "content": "C002는 앞서가던 엄마에게 다리가 아프다고 투덜거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 강 다리",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "content": "엄마는 조금만 더 가면 된다며 C002를 달랜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 운동장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "궁금하다",
+                    "content": "C002와 엄마가 운동장에 들어서자 C002는 학교가 작다며 걸음을 멈춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 운동장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "엄마는 빨리 오라며 발길을 재촉한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 운동장",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C002는 대단히 실망스러워 불만을 갖는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "교무실에 C002와 엄마가 들어서자 교감이 반긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "content": "교감이 졸고 있던 최 선생을 불러 담임이라 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "엄마가 최 선생에게 C002의 자랑을 늘어놓는 동안 C002는 교무실 이곳저곳을 살핀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실 앞 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "세 사람은 복도로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실 앞 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C002의 엄마가 최 선생을 살짝 불러 사라졌다 최 선생은 이내 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실 앞 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "최 선생은 C002를 데리고 교실로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "학생들은 열심히 책을 읽고 있다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_03",
+            "prev_id": "03_1464_02",
+            "next_id": "03_1464_04",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Main Character",
+            "storyline": "학급에서 권위적으로 선생님 노릇을 하고 있는 급장 C001의 권위에 대든다.",
+            "unit_motif": "낯선 곳으로의 이주",
+            "causality": "Mentor-hero conflict(스승과의 갈등)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "반갑다",
+                    "content": "최 선생은 반 아이들에게 C002가 서울에서 온 친구라 소개한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "아이들이 웅성댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "무안하다",
+                    "content": "C002가 자기소개를 하려 하자 최 선생은 C002의 말을 끊고 자리에 앉힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "최 선생이 교실을 나가자 아이들이 C002를 둘러싸고 서울에 대해 질문을 하며 소란을 피운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "자신감 있다",
+                    "content": "이때 급장인 C001가 아이들을 조용히 시키고 C002를 부르지만 C002는 직접 오라며 C001의 말을 거절한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "궁금하다",
+                    "content": "화가 난 체육부장이 급장에게 대든다며 C002를 바닥에 눕히지만 C001는 C002를 일으켜 세우고는 C002가 잘하는 것에 대해 질문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C002가 공부도 잘하고 똘똘해 보이자 C001는 C002에게 좋은 자리를 주며 앉으라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "열광하다",
+                    "content": "두 친구가 싸우고 있고 아이들이 이겨라 소리를 지른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "화나다",
+                    "content": "C001가 들어와 교탁에서 그만이라고 소리치자 아이들이 모두 자리에 앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "C001는 싸운 두 명의 친구를 불러 회초리로 손바닥을 때리고 나가라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "content": "C002는 이 장면들을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "복도에서 벌서고 있는 아이들을 보고 최 선생이 급장에게 무슨 일이냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C001가 대답하자 최 선생은 별다른 말없이 진도를 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "실망하다",
+                    "content": "C002는 실망한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_04",
+            "prev_id": "03_1464_03",
+            "next_id": "03_1464_05",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002는 C001에 대해서 알아보지만 친구들을 알려주지 못한다. C002가 C001에게 반항을 한다.",
+            "unit_motif": "출세주의자",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "하교길 군것질 장터",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "아이들이 국자로 뽑기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하교길 군것질 장터",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "content": "C002가 친구와 장터를 지나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "content": "C002는 친구에게 급장에 대해 질문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "content": "친구는 정확한 정보를 주지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "씁쓸하다",
+                    "content": "C002는 친구를 보내고 집으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "아이들이 C001에게 먹을 것을 바친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "짜증나다",
+                    "content": "C002가 들어오자 C001는 몇몇 아이들의 이름을 호명하고는 그들에게 받은 음식들을 나눠준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "괴롭다",
+                    "content": "한 아이가 C002에게 물 당번을 시키자 C002는 거부하고 아이들의 공격을 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C002가 선생님께 무엇이 옳은지 물으러 가겠다 하자 C001는 C002를 진정시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "행복하다",
+                    "content": "C002는 승리감에 도취되고 C002를 보는 아이들의 눈빛이 달라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "기대되다",
+                    "content": "의기양양한 C002를 C001는 노려본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_05",
+            "prev_id": "03_1464_04",
+            "next_id": "03_1464_06",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C002는 C001의 독재에 저항하지만 괴롭힘을 당하게 된다.",
+            "unit_motif": "독재정치",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "학교 건물 뒤 구석진 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "기쁘다",
+                    "content": "한 아이가 C002를 불러 선물을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 건물 뒤 구석진 곳",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "content": "C002와 아이가 자리를 뜨자 그들을 미행하던 다른 친구 두 명이 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "놀고 있는 아이들에게 한 아이가 들어와 풍금이 고장 나 음악시간이 체육시간으로 바뀌었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "act": "말하다",
+                    "content": "아이들이 서둘러 밖으로 달려나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "content": "C002가 헐레벌떡 운동장으로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "content": "C001는 지각한 C002에게 토끼뜀과 교실 청소를 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "무안하다",
+                    "content": "C002가 항의하려 하지만 C001는 말을 끊고 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "content": "C002는 토끼뜀을 뛴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "content": "급장이 교단에서 학급회의를 진행한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "기대되다",
+                    "content": "C002는 선생님만 볼 수 있는 건의함을 만들자고 건의한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "content": "그러나 거수로 표결하자 아무도 찬성하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "content": "C001는 회의를 마친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 안 우물",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "피곤하다",
+                    "content": "C002가 힘겹게 물을 퍼올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 안 우물",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "피곤하다",
+                    "content": "C002는 몹시 지친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "C002가 떠온 물을 가지고 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "짜증나다",
+                    "content": "책상 밑을 걸레로 닦는데 누군가 책상을 쓰러뜨린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "C002는 다치지는 않았지만 거친 숨을 몰아쉰다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_06",
+            "prev_id": "03_1464_05",
+            "next_id": "03_1464_07",
+            "characters": [
+                "C002"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C002는 아이들을 극장에 데려가고 선물을 주는 등돈으로 아이들을 매수한다.",
+            "unit_motif": "악동",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집, 책상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "C002는 공책에 최 선생의 이름을 쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집, 책상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "비장하다",
+                    "content": "갑자기 유리 저금통을 박살 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "지각을 해 서커스 구경에서 제외된 세 명의 친구에게 C002가 다가간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "C002는 이들에게 극장에 가자고 꼬시고 짝꿍이 합세하여 다섯이서 극장으로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "극장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "멀리서 아이들은 극장 입구를 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "극장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C002가 직원에게 돈을 지불하자 직원은 자리를 비워준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "극장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "행복하다",
+                    "content": "친구들이 달려와 극장 안으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "극장 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "content": "아이들이 신기한 듯 대한 늬우스를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "극장 안",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "행복하다",
+                    "content": "C002가 서커스보다 극장이 훨씬 좋지?라고 묻자 아이들이 긍정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "중국집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "자신감 있다",
+                    "content": "C002가 아이들에게 자장면을 쏜다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "중국집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "content": "중국집 주인이 의심하자 C002는 자랑스럽게 돈을 꺼내 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "중국집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "기쁘다",
+                    "content": "아이들은 정신 나간 듯 자장면을 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "중국집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "content": "C002는 급장 선거에 대해 질문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "중국집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "content": "C002는 아이들에게 고급 연필을 나눠준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "중국집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "emotion": "기쁘다",
+                    "content": "아이들은 몹시 좋아한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_07",
+            "prev_id": "03_1464_06",
+            "next_id": "03_1464_08",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C001의 권위에 도전하지만 실패로 끝난다.",
+            "unit_motif": "악동",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "짜증나다",
+                    "content": "C002가 뒷문으로 들어가려 하자 체육부장이 뒷문으로 다니지 말라고 막아선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "경멸하다",
+                    "content": "C002가 앞문으로 가자 어제같이 놀던 친구가 C002를 노려보며 체육부장을 따라 어디로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C002는 자리에 앉아 무슨 일인지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C002가 C001를 보자 C001는 어제 자신이 나눠준 연필 자루를 손에 잡고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "혼란스럽다",
+                    "content": "앞문으로 선도부 선배 2명이 들어와 C002가 극장에 간 것을 지적하며 퇴학이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "괘씸하다",
+                    "content": "선도부는 무섭게 C002를 끌어낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "괴롭다",
+                    "content": "C002는 선도부에게 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C001가 나타나 선도부들에게 자신이 이 일을 처리하겠다고 말하자 선도부는 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C001는 쓰러진 C002에게 친절하게 다가가 이번 일을 둘만의 비밀로 묻어두자며 공부에 매진하라고 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "참담하다",
+                    "content": "뒤돌아가는 C001의 뒷모습을 C002가 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_08",
+            "prev_id": "03_1464_07",
+            "next_id": "03_1464_09",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C002는 성적도 C001보다 못하자 실망한다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Crossing(교차)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집, 책상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "약오르다",
+                    "content": "C002가 촛불을 켜 공부한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집, 책상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "content": "엄마가 들어와 얼굴을 보고 놀라지만 C002는 부딪혔다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집, 책상",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "증오하다",
+                    "content": "엄마가 나간 후에도 C002는 계속해서 공부한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "여선생의 깐깐한 감시 속에 시험이 치러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "한 아이가 거울로 여선생의 치마 밑을 비춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "여선생은 C001가 오답을 쓰자 아니라는 신호를 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "C002는 모든 문제를 풀고 의기양양하게 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "C002가 C001를 보자 C001는 약간의 눈치를 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "시험이 종료된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002는 뛰어서 집으로 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "엄마가 시험 잘 쳤냐고 묻자 자신 있게 네라고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "아이들이 벽에 붙은 등수를 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "C001가 1등이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "짜증나다",
+                    "content": "아이들은 C002가 4등밖에 못하자 무시하는 발언을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "절망하다",
+                    "content": "C002는 실망한 듯 고개를 숙이고 돌아서서 긴 복도를 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "emotion": "씁쓸하다",
+                    "content": "C002가 복도를 걸어간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_09",
+            "prev_id": "03_1464_08",
+            "next_id": "03_1464_10",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C002는 최 선생에게 아이들이 C001에게 괴롭힘을 당하고 있다고 말하여 소원 수리를 하게 된다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Return(귀환)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "현재 C002의 목소리가 깔리면서 C001를 이길 수 있는 기회가 의외로 빨리 찾아왔다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "C001는 아이들이 가지고 노는 라이터를 빼앗는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "시골 학교 복도",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "emotion": "씁쓸하다",
+                    "content": "주인이 돌려달라 하자 C001는 고민하지만 복도에 서 있는 C002와 눈이 마주치자 라이터를 돌려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C002는 라이터 주인을 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C002는 라이터 주인에게 자신이 라이터를 찾아주겠다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "C002가 교무실로 최 선생을 찾아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C002는 주저하며 C001가 라이터를 뺏어갔다고 고자질한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "최 선생은 알았다며 C002를 돌려보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "단호하다",
+                    "content": "C001가 누구로부터 이야기를 듣고는 고개를 끄덕인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "불쾌하다",
+                    "content": "C002가 교실로 들어오자 C001가 노려본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "최 선생이 들어와 C001에게 라이터에 대해 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "C001는 라이터를 돌려줬다며 친구가 빈 집에서 불장난을 할까 봐 잠시 보관했다고 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C002는 고개를 숙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "서운하다",
+                    "content": "최 선생은 C002에게 고자질과 거짓말은 나쁜 것이라 말하며 좋지 않은 성적에 대해서도 실망을 표시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "자신감 있다",
+                    "content": "C002는 C001가 없는 곳에서 아이들과 이야기해달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "안심/안도하다",
+                    "content": "최 선생은 그러겠다고 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 안 우물",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "content": "C002가 힘겹게 우물 물을 퍼올려 세수를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "긴장되다",
+                    "content": "C002가 들어오자 아이들이 숙덕거린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "최 선생이 들어와 C001에게 일을 시키며 교무실로 보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "emotion": "편안하다",
+                    "content": "최 선생은 아이들에게 종이를 나눠주고 C001에 대해 허심탄회하게 쓰라고 말하지만 아무도 적지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "최 선생은 C001에 관해서만 아니라 누구든 잘못이 있으면 써보라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "C001는 시험지를 매기며 자신의 이름을 몰래 확인한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "content": "최 선생은 C001를 돌려보내고 아이들이 쓴 종이를 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "C001가 무섭게 뒷문을 열며 C002를 노려본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "C002도 C001를 노려본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_10",
+            "prev_id": "03_1464_09",
+            "next_id": "03_1464_11",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001로 인해 C002는 선생님들께 오해를 사게 된다.",
+            "unit_motif": "오해(착각)",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "음악시간이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "즐겁다",
+                    "content": "최 선생이 풍금을 치고 아이들이 노래를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "무섭다",
+                    "content": "C002는 C001를 노려본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "짜증나다",
+                    "content": "C002가 노래하지 않자 최 선생이 지적한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "최 선생은 아이들의 종이를 넘겨보며 C001가 나쁘다는 말은 너밖에 없다고 C002에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "짜증나다",
+                    "content": "최 선생은 공부 잘하고 통솔력 있는 C001를 칭찬하며 C002를 나무란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 힘없이 학교 밖으로 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "괴롭다",
+                    "content": "C002가 한 친구와 주먹다툼을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "기대되다",
+                    "content": "아이들이 둘러싸고 소리를 지르고 C001도 싸움을 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "혼란스럽다",
+                    "content": "C002가 일방적으로 상대를 눕혀 때리자 누군가 C002에게 검은 천을 씌우고 아이들이 몰려들어 발길질한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "최 선생이 수업하는 중간에 C002가 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "서럽다",
+                    "content": "최 선생은 C002를 책상 위에서 벌을 서게 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "서럽다",
+                    "content": "C001는 최 선생에게 벌이 일주일 화장실 청소라고 알려준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C002가 코를 막고 힘겹게 화장실 청소를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "content": "C002가 물 뜨러 나가고 여선생이 화장실 칸에 들어오자 한 남학생이 몰래 들어와 여선생을 엿본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화장실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "포박하다/체포하다",
+                    "emotion": "억울하다",
+                    "content": "부스럭 소리에 놀라 나온 여선생은 물을 뜨고 돌아온 C002에게 오해하고 귀를 잡아당겨 끌고 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "content": "여선생이 C002의 따귀를 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "속상하다",
+                    "content": "최 선생이 무슨 일이냐고 하자 여선생이 속상해하며 설명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "때리다",
+                    "emotion": "억울하다",
+                    "content": "교감이 다가와 C002를 꾸짖는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "화나다",
+                    "content": "C002는 서울로 돌아가자고 엄마에게 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C002의 집",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "소리치다",
+                    "content": "엄마가 안된다고 말하자 C002는 동생을 때려 화풀이하고는 집을 나간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_11",
+            "prev_id": "03_1464_10",
+            "next_id": "03_1464_12",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C002는 학교생활에 적응하지 못하고 무기력해진다. 그는 C001를 무찌르는 상상으로 학교생활을 견딘다. C001는 한 친구와 기찻길에 누워 목숨을 걸고 서열 다툼을 한다. 먼저 일어나 달아난 친구는 C001에게 무릎을 꿇는다.",
+            "unit_motif": "우울증",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "등교길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "즐겁다",
+                    "content": "아이들이 눈으로 장난을 치며 분주하게 학교로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "등교길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "의심스럽다",
+                    "content": "C002는 학교를 가다 말고 뒤돌아서서 걷는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교가 내려다보이는 산",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "content": "C002는 심각하게 학교를 내려다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "꽁꽁 언 연못",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "아이들이 썰매를 타거나 팽이를 치며 놀고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "꽁꽁 언 연못",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "즐겁다",
+                    "content": "C002는 아이들을 바라보며 C001와 싸워 이기는 상상을 하고는 웃음을 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "꽁꽁 언 연못",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "씁쓸하다",
+                    "content": "C002는 씁쓸하게 일어나 웃으며 자리를 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C002가 기찻길을 걷고 있는데 한 무리의 아이들이 나타나자 숨는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "황당하다",
+                    "content": "C001와 한 친구가 나란히 기차선로에 눕고 다른 아이들이 지켜본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "emotion": "감탄하다",
+                    "content": "기차가 다가오자 친구가 먼저 일어나 달리고 C001는 선로 안으로 숨는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "기차가 지나가고 먼저 일어난 친구가 무릎을 꿇는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "C002는 이 장면을 보고 놀란다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_12",
+            "prev_id": "03_1464_11",
+            "next_id": "03_1464_13",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C002는 결국 C001에게 굴복하고 그에게 아부하기 시작한다.",
+            "unit_motif": "독재정치",
+            "causality": "Threshold guardian(마지막 수호자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "최 선생이 교실에 들어오자 급장의 지시 아래 청소 분담이 정해지고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "받는다",
+                    "content": "최 선생은 C001를 칭찬하며 청소 검사를 C001에게 맡기고 퇴근한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "C001가 화단 청소를 맡은 아이들에게 합격을 통보한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 C002반과 돈내기 축구시합을 하기로 했다고 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "C002는 창문을 닦으며 C001를 웃으며 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "급장이 들어와 청소상태를 검사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "짜증나다",
+                    "content": "교실 청소는 합격했지만 유리창 청소는 불합격시킨다. 합격 받은 아이들은 운동장을 달려 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "각각 천 원씩 걸고 두 반이 경기를 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "흥정하다/협상하다",
+                    "content": "돈은 C001가 가지고 있는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "emotion": "지겹다",
+                    "content": "C002를 포함한 유리창 청소 담당 아이가 열심히 유리를 닦는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만들다",
+                    "content": "한 아이가 급장을 부르러 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "축구 경기가 한창 진행 중이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "유리창 청소 담당 아이가 와서 급장에게 보고하고 급장이 교실로 향한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "무시하다",
+                    "emotion": "씁쓸하다",
+                    "content": "웃고 있는 C002의 얼굴에 C001는 불합격을 알린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "무시하다",
+                    "content": "C002는 다시 창문을 열심히 닦고 합격한 아이들은 운동장으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C002가 달려 나와 C001에게 청소 검사를 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C001가 알았다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C001는 남은 아이를 합격시키지만 C002는 불합격시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "피곤하다",
+                    "content": "급장이 나가고 C002는 힘없이 걸상에 기댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C001의 반이 축구에서 승리한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "운동장",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "즐겁다",
+                    "content": "C001는 아이들에게 가자고 소리치며 달려나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "무시하다",
+                    "content": "C002가 쓸쓸하게 창밖을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "아이들이 돌아와 C001의 지시에 따라 급히 가방을 챙겨 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "주눅들다",
+                    "content": "C001는 자고 있던 C002를 깨우고 합격이라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "비참하다",
+                    "content": "C002는 눈물을 글썽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하교길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "content": "어른 C002가 C001가 자신의 눈물의 본질을 꿰뚫고 승리를 확인하며 자신을 풀어주었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하교길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "content": "C002는 C001에게 달려가 고급 볼펜을 바친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "하교길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "content": "굴종의 열매는 달았다는 말을 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_13",
+            "prev_id": "03_1464_12",
+            "next_id": "03_1464_14",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "C002는 C001의 총애를 얻으며 점점 더 C001와 같이 권위적으로 행동한다.",
+            "unit_motif": "독재정치",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C002가 일대일 대결을 벌이고 승리한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "숲 속",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "즐겁다",
+                    "content": "C001가 C002의 지위를 승격시키자 아이들이 아무 말도 하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "자신감 있다",
+                    "content": "C002가 친구 몇몇의 이름을 호명하며 지각을 이유로 서커스 구경에 제외한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "제외된 친구들은 애원하지만 C002는 돌아선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "content": "미술시간이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "content": "아이들이 그림을 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "emotion": "뻔뻔하다",
+                    "content": "C001가 그림을 그리지 않자 C002는 자신이 그린 엄마 그림을 C001에게 바친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "자랑하다",
+                    "content": "C001는 자신의 엉성한 그림과 C002의 그림을 번갈아 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 앞 화단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "뻔뻔하다",
+                    "content": "친구 한 명이 다가와 C002에게 저번에 줬던 물건을 돌려달라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 앞 화단",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C002는 없다고 시치미를 뗀다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C002가 친구에게 다가와 물건을 잃어버렸다고 말하지만 친구는 삐져서 돌아간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_14",
+            "prev_id": "03_1464_13",
+            "next_id": "03_1464_15",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "우연히 C001의 대리시험을 목격하게 되지만 최 선생에게 알리지 못한다.",
+            "unit_motif": "독재정치",
+            "causality": "Distortion(뒤틀림/왜곡)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "시험시간이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "한 친구가 자신의 이름을 지우고 C001의 이름을 쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "불안하다",
+                    "content": "C002는 그것을 목격하고 C001의 눈치를 보며 고민한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 안 어느 건물 옆",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C002는 아까 이름을 고쳐 쓴 친구를 데리고 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 안 어느 건물 옆",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C002는 각 과목에 따라 정해진 아이가 C001의 시험을 대리하고 있다는 사실을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "대리 시험을 친 친구가 C001를 불러내 무언가를 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C002는 또다시 C001의 부정행위를 목격하지만 C001가 노려보자 어색한 웃음을 지어 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C002는 시험지를 가지고 나가는 최 선생에게 모든 사실을 알리는 상상을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "복도",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "즐겁다",
+                    "content": "그러나 행하지 못하고 C001의 강요에 못 이겨 미포리에 놀러 가기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 뒤",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "괴롭다",
+                    "content": "C001는 아이 네 명을 세워놓고 일을 제대로 하지 못했다며 한 아이를 발로 찬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 뒤",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "content": "그리고 미포리 준비나 잘하라고 말한 뒤 사라진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "content": "C001가 C002와 걸으며 서울 창신동에 대해 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "애틋하다",
+                    "content": "그리고 C002의 어머니가 예쁘다고 칭찬을 한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_15",
+            "prev_id": "03_1464_14",
+            "next_id": "03_1464_16",
+            "characters": [
+                "C001",
+                "김선생"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "서울에서 온 김 선생은 C001의 권위주의를 조금씩 무너뜨려가지만 C001는 저항한다.",
+            "unit_motif": "독재정치",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "명령하다",
+                    "content": "김 선생은 C001에게 다음 시간에 건의 함에 대해 의견을 모으라고 지시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 뒷마당",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "content": "C001가 친구에게 무언가를 지시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "김 선생이 C001에게 수학 문제를 풀라고 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "참담하다",
+                    "content": "C001가 풀지 못하자 김 선생이 들어가라 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "주눅들다",
+                    "content": "아이들이 웅성대고 C001는 고개를 숙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화단",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "소리치다",
+                    "content": "김 선생이 나무를 다듬고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화단",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "당황하다",
+                    "content": "김 선생은 집에 가는 반 아이들을 불러 세우고 청소 검사를 안 받고 가냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화단",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "소리치다",
+                    "content": "아이들은 C001에게 받았다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화단",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "불만족스럽다",
+                    "content": "김 선생은 같은 학생들끼리 왜 청소 검사를 받냐며 아이들을 다시 교실로 이끈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화단",
+                    "character": [
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "소리치다",
+                    "content": "C001가 창문으로 그 광경을 바라본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_16",
+            "prev_id": "03_1464_15",
+            "next_id": "03_1464_17",
+            "characters": [
+                "김선생",
+                "C001",
+                "C002"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C001는 김 선생의 감시 속에서도 대리시험을 강행한다.",
+            "unit_motif": "독재정치",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "김선생"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "김 선생은 최 선생과 여선생에게 청소 검사에 대해 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "김선생"
+                    ],
+                    "act": "묻는다",
+                    "content": "최 선생과 여선생은 C001 반은 축복받은 반이라며 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "character": [
+                        "김선생"
+                    ],
+                    "act": "묻는다",
+                    "content": "김 선생은 웃으면서 고개를 갸우뚱한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "content": "체육부장이 한 아이들 불러 군기를 잡자 C001가 말린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 건물 뒤 구석진 곳",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "괘씸하다",
+                    "content": "C001가 아이 셋을 세워놓고 발길질한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 건물 뒤 구석진 곳",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "때리다",
+                    "emotion": "화나다",
+                    "content": "C002가 다가와 말리자 C001가 욕을 하며 자리를 뜬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "act": "훔치다",
+                    "content": "누군가 들어와 서류를 뒤진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교무실",
+                    "act": "훔치다",
+                    "content": "교무실에서 빠져나오면서 순찰을 하던 아저씨가 달려 나오자 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "content": "김 선생의 지도 아래 시험이 치러진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "증명하다/입증하다",
+                    "emotion": "궁금하다",
+                    "content": "김 선생이 이름을 꼭 쓰라고 하자 C002와 C001가 선생님을 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "content": "C002는 늘 C001의 대리 시험을 쳐주는 친구가 이번에도 시험을 쳐줬음을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "기찻길",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "비장하다",
+                    "content": "어른 C002는 C001 왕국의 위기와 갑자기 일어난 혁명의 시작에 대해 운을 뗀다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_17",
+            "prev_id": "03_1464_16",
+            "next_id": "03_1464_18",
+            "characters": [
+                "C002",
+                "C001",
+                "김선생"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "김 선생은 대리시험 부정행위를 밝혀내고 C001를 벌한다. 그동안 C001에게 당해온 아이들이 모두 사실을 털어놓자 C001는 놀림거리가 되고 다시는 학교에 나오지 않게 된다.",
+            "unit_motif": "명예손상",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "궁금하다",
+                    "content": "김 선생은 아이들에게 모두 책을 넣으라 하고 C001의 전교 일 등에 대해 수수께끼를 풀어야 한다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "괴롭다",
+                    "content": "C001는 불려 나와 회초리를 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "긴장되다",
+                    "content": "쉴 새 없이 맞는 C001를 보고 아이들이 인상을 찌푸린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "불편하다",
+                    "content": "C001가 잘못을 빌자 김 선생은 대리 시험을 저지른 아이들을 불러 매로 다스린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "난감하다",
+                    "content": "아이들이 진실을 이야기하자 김 선생은 일 번부터 C001의 잘못을 말하라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "content": "체육부장을 포함한 아이들은 하나씩 C001의 잘못 들을 이야기하며 그를 비난하기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "content": "C002의 차례가 돌아오자 C002는 아무 말도 하지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "답답하다",
+                    "content": "아이들은 그런 C002를 답답해하며 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "content": "김 선생은 아이들을 책상 위에서 벌을 서게 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "content": "지나가던 최 선생이 이 광경을 보고 자리를 뜨고 다른 선생님들도 구경을 왔다 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "불편하다",
+                    "content": "체벌을 끝낸 김 선생은 다시 급장 선거를 실시한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "content": "자유로운 분위기 속에서 아이들은 여러 가지 의견을 내며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "emotion": "참담하다",
+                    "content": "놀림감이 된 C001는 욕을 하고 교실을 박차고 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001",
+                        "김선생"
+                    ],
+                    "act": "부수다",
+                    "content": "김 선생이 쫓아가지만 잡지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "content": "아이들이 창문에 붙어 도망가는 C001에게 욕을 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002",
+                        "C001"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "불안하다",
+                    "content": "C002는 책상에 앉아 불안한 표정을 짓는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1464_18",
+            "prev_id": "03_1464_17",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C002는 이 사회는 여전히 그때와 같은 상황이며 앞으로도 그의 그늘에서 벗어날 수 없다고 생각한다.",
+            "unit_motif": "독재정치",
+            "causality": "Retaliation(보복/복수)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부수다",
+                    "emotion": "불편하다",
+                    "content": "플래카드와 태극기를 든 시위대들이 이승만 정권 물러가라는 구호를 외치며 행진한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부수다",
+                    "content": "총소리가 들리고 시위대들이 흩어지자 경찰들이 나타나 그들을 쫓아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "부수다",
+                    "emotion": "심란하다",
+                    "content": "C002는 몸을 숙여 그 현장을 지나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부수다",
+                    "emotion": "당황하다",
+                    "content": "누군가 몰래 들어와 휘발유를 붓고 불을 붙인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "부수다",
+                    "content": "C002가 교실이 불에 휩싸이며 그날 이후 C001를 본 사람이 없었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C002가 예전 의식을 되찾고 정상적인 학교생활이 시작된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "점점 C001를 잊어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "content": "C002는 동창들과 함께 C001에 대해 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "약오르다",
+                    "content": "출세한 친구가 예전에 잘 나갔던 체육부장이 택시기사를 한다며 비꼬고 작은 시비가 붙는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "content": "늙은 김 선생이 찾아오자 동창들이 일어나 인사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "content": "김 선생은 국회의원이 되어있고 C002는 멍하게 그를 바라본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "만나다",
+                    "emotion": "담담하다",
+                    "content": "동창들이 한잔하러 나가고 C002는 혼자 술잔을 기울인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "조용한 가운데 C002는 피던 담배를 끈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "궁금하다",
+                    "content": "갑자기 입구에서 C001라고 적힌 화환들이 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "친구 한 명이 입구로 달려나가지만 아무도 없다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "담담하다",
+                    "content": "C002는 무표정을 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "content": "닭이 울고 C002는 장례식장을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "씁쓸하다",
+                    "content": "C002는 C001가 끝내 나타나지 않았으며 한 다발의 꽃으로는 그의 성공을 가늠할 수 없다고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "emotion": "그립다",
+                    "content": "그러나 그는 이 사회가 여전히 그때와 같으며, C001는 어디선가 또 다른 급장의 모습을 하고 있을 것이라고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "최선생의 장례식장 앞",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "공감하다",
+                    "content": "C002는 앞으로도 그의 그늘에서 벗어날 수 있을지 확신하지 못한다."
+                }
+            ]
+        }
+    ]
+}

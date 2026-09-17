@@ -1,0 +1,1494 @@
+{
+    "id": "03_1481",
+    "type": "novel",
+    "title": "신사란 무엇인가",
+    "genre": [
+        "드라마"
+    ],
+    "year": 2013,
+    "theme": "사랑",
+    "concept": "C009을 신분 차이가 나는 C006와 사랑에 빠지지만 C006는 떠나고 C009은 신분 차이로 C006를 잡지 못하고 포기한다. 익명의 후원자가 C009을 후원하여 신분 상승의 기회가 오고 C006가 있는 뉴욕으로 떠난다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "미지의 후견인",
+    "main_character": "예술가",
+    "conflict": "C009은 우연히 탈옥수를 도와준다. 사정상 C001 대저택에서 C006와 놀아주는 조건을 돈을 후원받게 되고. C009은 C006와 사랑에 빠지지만 C006는 유학을 떠나 버린다. 신분의 차이로 그녀를 잡지 못하고 익명의 후원자로 결혼을 앞둔 C006가 있는 뉴욕으로 가게 된다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009"
+    ],
+    "units": [
+        {
+            "id": "03_1481_01",
+            "next_id": "03_1481_02",
+            "characters": [
+                "C009",
+                "C008",
+                "C003"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "어린 C009은 바닷가에서 그림을 그리다 탈옥수 C003와 만나게 된다.",
+            "unit_motif": "도망자",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C009의 집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "C009은 학교가 끝나서 집으로 뛰어가고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009의 집",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "담담하다",
+                    "content": "집에는 누나는 없고 누나의 애인인 C008가 C009을 받아준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C009의 집",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "C009을 덤덤하게 가방을 두고 노트와 팬을 들고 밖으로 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장 작업장",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "편안하다",
+                    "content": "C008는 C009과 자신의 작업장인 선착장으로 같이 가게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장 작업장",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "emotion": "놀라다",
+                    "content": "C008는 C009을 들고 장난을 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장 작업장",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "놀리다",
+                    "emotion": "즐겁다",
+                    "content": "C009을 놔달라고 이야기하고 C008는 놀랐냐며 C009을 놀려 댄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "선착장 작업장",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "기쁘다",
+                    "content": "C008가 자신이 일이 끝나면 아이스크림을 사준다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "놀다",
+                    "emotion": "자신감 있다",
+                    "content": "C009이 바닷가를 거닐며 노트에 그림을 그리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "놀라다",
+                    "content": "탈옥한 죄수인 C003가 물속에서 튀어나와 C009의 입을 틀어막고 연장과 음식을 가져오라고 협박한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "심란하다",
+                    "content": "도망치듯 달려가던 필 벨은 C008를 만나지만 C003에 대한 얘기 없이 집으로 달려간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_02",
+            "prev_id": "03_1481_01",
+            "next_id": "03_1481_03",
+            "characters": [
+                "C009",
+                "C004",
+                "C003"
+            ],
+            "stage": "Main Character",
+            "storyline": "C009은 C003에게 음식과 연장을 몰래 가져다주고 그가 경비정에게 잡히지 않도록 도와준다.",
+            "unit_motif": "미지의 후견인",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C004"
+                    ],
+                    "act": "만나다",
+                    "emotion": "궁금하다",
+                    "content": "집에서 남자가 나오고 안으로 들어가니 C004 누나가 벌거벗고 침대에 앉아있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C004"
+                    ],
+                    "act": "부정/부인/반박하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C009은 남자 친구인 C008가 있는데 C004가 이해하기 힘들다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C004"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "씁쓸하다",
+                    "content": "C009은 조용히 자기 방으로 들어서 잠이 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "놀라다",
+                    "content": "C009은 자다가 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "걱정",
+                    "content": "창밖으로 천둥이 치고 폭우가 쏟아진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C009이 음식과 연장, 약을 가방에 챙겨 넣고 잠든 누나 몰래 밖으로 빠져나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "준다",
+                    "emotion": "고맙다",
+                    "content": "C003는 C009이 가져온 연장으로 발목에 채워진 사슬을 끊고 음식과 진통제를 받아먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "받는다",
+                    "emotion": "난감하다",
+                    "content": "C003는 C009을 배에 태우고 떠난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "혼란스럽다",
+                    "content": "C003와 C009을 태운 배가 바다를 항해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "안심/안도하다",
+                    "content": "경비정이 다가오자 C003는 배에서 내려 숨고, C009은 구명조끼를 몰래 던져주고 경비정과 함께 돌아온다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_03",
+            "prev_id": "03_1481_02",
+            "next_id": "03_1481_04",
+            "characters": [
+                "C009",
+                "C008",
+                "C006",
+                "C004"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C009은 멕시코의 갑부 여주인인 C001와 그녀의 조카 C006를 만나게 된다.",
+            "unit_motif": "가문의 여주인",
+            "causality": "New personality(새로운 자아)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "emotion": "슬프다",
+                    "content": "국가에서 어업 제한 조치로 C008의 일자리를 잃어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C001의 대 저택에서 정원사를 구한다는 소식에 C008와 C009이 저택으로 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "심란하다",
+                    "content": "C009은 차를 타고 오면서 어린 시절 비밀을 회상하다가 실낙원이라 쓰인 C001 딘 스무 어의 저택 입구에 도착한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "emotion": "궁금하다",
+                    "content": "저택 대문에는 사람들이 오고 간 흔적이 업는 패 저택 같은 분위기다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무감각함",
+                    "content": "C008와 C009은 문을 열고 저택으로 들어가고 C008는 C009에게 사고 치지 말라고 하고 저택 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "반갑다",
+                    "content": "C008는 건물 안으로 들어가고 혼자 저택 뜰에 앉아있는 C009에게 C006가 다가와 이름을 묻고 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "emotion": "설레다",
+                    "content": "C006는 C009을 오늘 면접을 보러 온 정원사로 생각하고 집을 구경시켜준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "준다",
+                    "emotion": "자랑스럽다",
+                    "content": "C006는 사라지고 집에서 나온 C008는 C001에게 받은 오백 달러를 핀에게 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C008",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "당황하다",
+                    "content": "C008와 C009이 집에 돌아오자, C004가 C009을 자기네 집으로 보내달라는 C001의 전화를 받고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "편안하다",
+                    "content": "C009은 말없이 텔레비전 앞으로 왔다가 뉴스에서 다시 잡힌 탈옥수 C003가 나오는 걸 본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_04",
+            "prev_id": "03_1481_03",
+            "next_id": "03_1481_05",
+            "characters": [
+                "C009",
+                "C008",
+                "C004",
+                "C006",
+                "C001"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C009은 매주 토요일마다 C001의 대저택을 찾아가 C006를 만나면서 사랑에 빠진다.",
+            "unit_motif": "첫눈에 반한 사랑",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "저택 입구",
+                    "character": [
+                        "C009",
+                        "C008",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "C008와 C004가 C009을 저택 입구까지 데려와 들여보낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "문 앞",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "기대되다",
+                    "content": "C009이 초인종을 누르자 C006가 문을 열어주면서 C009을 또 정원사 취급한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "감탄하다",
+                    "content": "C006는 C009에게 호화스러운 저택 내부를 보여주고 C001의 방으로 인도한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "자신감 있다",
+                    "content": "C009은 C001를 만나게 되고 춤을 추라는 C001의 요청에 그림을 그려주겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "만들다",
+                    "emotion": "반하다",
+                    "content": "C006가 방으로 들어오고 C009은 C006의 초상화를 그리며 동경심이 생긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "사랑스럽다",
+                    "content": "분수대에서 물을 마시던 C009은 C006에게 키스를 당한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "만들다",
+                    "emotion": "그립다",
+                    "content": "C009은 집에 돌아와 그 느낌을 기억하며 그림을 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C004"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C004는 일을 하러 나가면서 그림 그리는 C009을 쓰다듬으며 격려해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "토요일마다 실락원을 찾아가는 C009, C006와 함께 음악에 맞추어 춤을 춘다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "content": "C009과 C006 두 사람은 성인으로 변한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "설레다",
+                    "content": "C009은 C006를 파티까지 에스코트하기 위해 정장을 차려입으며 준비한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "불쾌하다",
+                    "content": "파티가 열리는 저택 앞에서 C009은 초청 명단에 없다며 경찰의 제지를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "허무하다",
+                    "content": "C009은 허탈하게 앉아있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차 안",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "설레다",
+                    "content": "C006가 와서 차를 타고는 C009의 집으로 가자고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "황홀하다",
+                    "content": "C006는 C009의 방에서 그가 그린 그림들을 보다가 C009에게 키스를 하고 돌아간다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_05",
+            "prev_id": "03_1481_04",
+            "next_id": "03_1481_06",
+            "characters": [
+                "C009",
+                "C001",
+                "C008"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "어느 날 C006가 인사도 없이 유학을 떠나가 버린다.",
+            "unit_motif": "연인 상실",
+            "causality": "Threshold guardian(마지막 수호자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "불안하다",
+                    "content": "C009은 저택으로 들어와 C006를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "심란하다",
+                    "content": "저택의 어떤 곳에도 C006가 보이지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "C009은 C006의 소식을 듣기 위해 C001를 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "외롭다",
+                    "content": "C001가 혼자 창밖을 내다보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "허무하다",
+                    "content": "C001와 뜰에 나온 C009은 C006가 인사도 없이 유학을 떠났다는 사실을 알게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "emotion": "서운하다",
+                    "content": "C001는 C009에게 C006를 사랑하면 혼자 상처받을 거라고 이야기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택 뜰",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "기다리다",
+                    "emotion": "절망하다",
+                    "content": "C009은 혼자 바다를 바라보며 털썩 주저앉는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "7년이라는 시간이 지나고 C009은 C008와 함께 배에서 고기를 잡고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "무감각함",
+                    "content": "그림과 동경심을 포기한 상태로 물고기만 잡고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "놀다",
+                    "emotion": "담담하다",
+                    "content": "C009은 사람들과 어울리며 술을 마시고 있다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_06",
+            "prev_id": "03_1481_05",
+            "next_id": "03_1481_07",
+            "characters": [
+                "C009",
+                "C002",
+                "C008",
+                "C001",
+                "C005",
+                "C006"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "낙심한 채 그림을 포기하고 뱃사람처럼 살아가던 C009에게 미지의 후원자가 찾아오고, C009은 꿈을 이루기 위해 뉴욕으로 떠난다.",
+            "unit_motif": "연인 상실",
+            "causality": "Facing the greatest fear(심연을 직면함)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009",
+                        "C002",
+                        "C008"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "황당하다",
+                    "content": "배에 페인트칠을 하고 있는 C009에게 변호사가 찾아와 뉴욕에서 개인전을 열자고 제안한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "반갑다",
+                    "content": "C009은 오랜만에 실락원 저택을 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "궁금하다",
+                    "content": "C001를 만나 C002가 찾아온 이야기를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C009은 공항에서 뉴욕행 비행기를 기다린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공항",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "홀가분하다",
+                    "content": "C008의 격려를 받고 비행기에 탑승한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "놀다",
+                    "emotion": "유쾌하다",
+                    "content": "C009은 뉴욕 지하철에서 장난감 비행기를 가지고 놀고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "놀다",
+                    "content": "지하철에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "모욕하다/욕하다",
+                    "emotion": "난감하다",
+                    "content": "C009은 택시를 놓치고 퍼붓는 비를 맞으며 낯선 사람에게 난데없는 욕지거리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "뉴욕의 호텔",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "감동하다",
+                    "content": "C009은 뉴욕의 한 호텔 방에서 감격스러운 밤을 맞이한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화랑",
+                    "character": [
+                        "C009",
+                        "C005"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "emotion": "난감하다",
+                    "content": "화랑에 도착한 C009은 C005에게 당장 그림을 그려보라는 요청을 받아들인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공원",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "만들다",
+                    "emotion": "자신감 있다",
+                    "content": "C009은 공원 벤치에 앉아 다시 그림을 그리기 시작한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공원",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "반갑다",
+                    "content": "식수대에서 물을 마시고 있는 C009에게 C006가 다가와 키스하며 둘이 재회한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_07",
+            "prev_id": "03_1481_06",
+            "next_id": "03_1481_08",
+            "characters": [
+                "C009",
+                "C006"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C009은 C006의 상류층 약혼자와 친구들을 만나며 사랑하는 사람과의 신분 격차로 마음고생을 한다.",
+            "unit_motif": "숨겨진 연인",
+            "causality": "Celebration(축하)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "클럽",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C009을 엄청 클래식한 클럽으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "C006는 C009을 보고 반기며 친구 들으니 인사 시켜준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "보다",
+                    "emotion": "사랑스럽다",
+                    "content": "C009은 인사하는 중간에도 C006에게 눈을 뗄 수가 없다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "황당하다",
+                    "content": "C006는 자신의 약혼자라고 C009에게 소개해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "클럽",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "자신감 있다",
+                    "content": "C009은 인사를 하고 C006에게 다시 널 그리고 싶다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "준다",
+                    "emotion": "씁쓸하다",
+                    "content": "C009이 길을 걷는데 클럽 종업원이 나와 옷을 바꿔 입고 나갔다며 외투를 교환한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만들다",
+                    "emotion": "당황하다",
+                    "content": "C009이 자는데 C006가 들어와 모델이 되어주겠다며 옷을 벗는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만들다",
+                    "emotion": "황당하다",
+                    "content": "C009은 정신없이 그림을 그리고 C006는 갑자기 약속이 있다며 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 안",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "불편하다",
+                    "content": "나가버린 C006를 황당히 쳐다보던 C009은 황급히 일어나 맨발로 따라나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "택시",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "거부감",
+                    "content": "C006와 맨발로 함께 택시를 탄 C009은 화를 내고 C006는 냉담한 반응을 보인다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_08",
+            "prev_id": "03_1481_07",
+            "next_id": "03_1481_09",
+            "characters": [
+                "C009",
+                "C007",
+                "C002",
+                "C005",
+                "C006"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C009에게 C007라는 장애가 있지만 뉴욕에서 화가로 성공하여 C006의 사랑을 얻는다.",
+            "unit_motif": "계급을 초월한 사랑",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "질투하다",
+                    "content": "C007가 갑자기 찾아와 C006의 누드화를 보고 C009에게 그녀를 사랑한다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C009",
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "신뢰하다",
+                    "emotion": "고맙다",
+                    "content": "C007는 C002와 C005가 준비한 작업실을 소개받고 이 모든 걸 후원해주는 사람이 여자 갑부인 C001라고 믿는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "건물 위",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "C009은 술을 마시며 여자 갑부와 미술계의 호의를 기꺼이 받아들인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C009",
+                        "C005"
+                    ],
+                    "act": "준다",
+                    "emotion": "고맙다",
+                    "content": "C005는 C009에게 그가 홍보된 잡지와 생활비, 파티 초대권을 건네준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "다리",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "emotion": "절망하다",
+                    "content": "C009은 미술계에서 잘 나가고 있다는 소식을 C006에게 전하고, C006는 C007가 청혼했다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "그립다",
+                    "content": "C009은 C006를 생각하며 택시에서 내려 파티장으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "파티장",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "상실감",
+                    "content": "C009은 유명인사가 되어 파티에 참석하지만 줄곧 C006만 찾아다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "속상하다",
+                    "content": "C009은 밖으로 나와 비를 흠뻑 맞은 채 C006를 찾으러 뛰어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당",
+                    "character": [
+                        "C009",
+                        "C006",
+                        "C007"
+                    ],
+                    "act": "놀다",
+                    "emotion": "애틋하다",
+                    "content": "C009은 C006가 있는 식당으로 들어가 춤을 신청하고 함께 춤을 추다가 밖으로 데리고 나온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "키스하다",
+                    "emotion": "사랑스럽다",
+                    "content": "C009과 C006는 빗속에서 키스를 하고 함께 손을 잡은 채 달린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "황홀하다",
+                    "content": "C009과 C006는 침대 위에서 사랑을 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "불안하다",
+                    "content": "잠들었다 눈을 뜬 C009, C006가 그를 바라보고 있다가 비 내리는 창가로 가서 앉는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_09",
+            "prev_id": "03_1481_08",
+            "next_id": "03_1481_10",
+            "characters": [
+                "C009",
+                "C008",
+                "C001"
+            ],
+            "stage": "Defeat",
+            "storyline": "C009은 C006가 C007와 결혼한다는 소식을 듣는다.",
+            "unit_motif": "연인 상실",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "화랑 앞",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "긴장되다",
+                    "content": "C009이 차를 타고 그의 개인전이 열리는 화랑 앞에서 내리자 여기저기 카메라 플래시가 터진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화랑",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "수색하다",
+                    "emotion": "궁금하다",
+                    "content": "C009은 많은 사람들에게 축하 인사를 받으면서 계속 C006를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화랑",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "만나다",
+                    "emotion": "심란하다",
+                    "content": "갑자기 C008가 큰 소리로 C009의 이름을 부르며 화랑에 나타나면서 분위기가 어색해진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "화랑",
+                    "character": [
+                        "C009",
+                        "C008"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C008를 따라 화랑 밖으로 나온 C009에게 C008는 그가 자랑스럽다고 말하며 돌아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "비장하다",
+                    "content": "C009는 술을 병 채로 마시며 길을 걸으면서 성공을 위해 C008와 과거를 다 잊기로 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집 앞",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "행복하다",
+                    "content": "C009은 C006의 집 앞에서 자기는 성공했고 이젠 당당히 만날 수 있다고 소리친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "계단",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "기대되다",
+                    "content": "C009은 C006의 이름을 부르며 계단을 걸어 올라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "절망하다",
+                    "content": "방에 들어선 C009은 C001를 만나게 되고, C006의 결혼식 소식을 전해 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "방",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "만나다",
+                    "emotion": "참담하다",
+                    "content": "C009은 C001의 손을 자신의 가슴에 대고 C001가 오랫동안 아파하고 힘들어하던 멍드는 가슴이 내 가슴에도 있다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "계단",
+                    "character": [
+                        "C009",
+                        "C001"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "죄책감",
+                    "content": "계단을 내려가는 C009의 등 뒤에서 C001가 자기 잘못이 아니라고 울부짖는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_10",
+            "prev_id": "03_1481_09",
+            "next_id": "03_1481_11",
+            "characters": [
+                "C009",
+                "C003"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C009은 우연히 오래전 만난 탈옥수였던 C003를 만나고 C003는 함께 파리에 가자고 한다.",
+            "unit_motif": "미지의 후견인",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "작업실 계단",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "긴장되다",
+                    "content": "작업실 계단에 들어서는데 아래에서 어떤 남자가 도움을 요청한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "반갑다",
+                    "content": "C009은 그를 알아보지 못하지만 곧 기억해낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "작업실 계단",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C009은 C003를 따라 계단을 내려가며 그가 빠져나가는 걸 돕는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "불안하다",
+                    "content": "C009은 C003가 공항 가는 길을 데려다주며 함께 걷는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철역",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "도망치다",
+                    "emotion": "긴장되다",
+                    "content": "C003는 C009에게 함께 파리에 가자며 설득하던 중 그를 쫓던 불량배들과 만나 도망친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철역",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "돕다",
+                    "emotion": "심란하다",
+                    "content": "C003는 나이 때문에 도망가기 힘들어하자 C009은 C003가 도망갈 수 있게 도와준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철역",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "긴장되다",
+                    "content": "C003와 C009은 막 도착한 차를 타기 위해 계단을 뛰어 올라간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "편안하다",
+                    "content": "두 사람은 불량배들을 따돌리고 지하철을 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "기대되다",
+                    "content": "C003는 C009에게 계속 함께 파리로 가자고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "해치다",
+                    "emotion": "놀라다",
+                    "content": "갑자기 불량배 하나가 다가와 C003를 칼로 찌르고 내린다."
+                }
+            ]
+        },
+        {
+            "id": "03_1481_11",
+            "prev_id": "03_1481_10",
+            "characters": [
+                "C009",
+                "C003",
+                "C008",
+                "C008의 아내와 아기",
+                "C006",
+                "C006의 딸"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C003는 찔려 죽으면서 그에게 죽기 전 비밀을 말해주고 핀은 C003가 죽은 후 파리로 가서 성공한다. C009은 이혼한 C006를 다시 만나 서로의 마음을 확인한다.",
+            "unit_motif": "미지의 후견인",
+            "causality": "Retaliation(보복/복수)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "지하철",
+                    "character": [
+                        "C009",
+                        "C003"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "편안하다",
+                    "content": "C003는 C009의 품에 안겨 그동안의 비밀을 모두 말하고 어릴 적 C009의 그림 노트를 펼쳐보며 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C009"
+                    ],
+                    "act": "말하다",
+                    "content": "C009은 파리로 가서 성공했고, C006는 이혼했다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C008",
+                        "C008의 아내와 아기"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "설레다",
+                    "content": "C009은 C008를 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "집",
+                    "character": [
+                        "C009",
+                        "C008",
+                        "C008의 아내와 아기"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "반갑다",
+                    "content": "C008의 아내와 아기가 함께 집에서 나와 C009을 환영해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "그립다",
+                    "content": "C009은 실락원 저택으로 찾아가 과거를 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "놀라다",
+                    "content": "갑자기 어린 C006가 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006",
+                        "C006의 딸"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "반갑다",
+                    "content": "C009은 환영처럼 어린 C006를 따라 저택 안으로 들어가 진짜 C006를 만난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006",
+                        "C006의 딸"
+                    ],
+                    "act": "맞이하다",
+                    "content": "C006와 C009은 저택 안에서 재회하게 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "반갑다",
+                    "content": "C006가 자신의 딸이라며 어린 C006를 C009에게 소개해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "저택",
+                    "character": [
+                        "C009",
+                        "C006"
+                    ],
+                    "act": "만나다",
+                    "emotion": "애틋하다",
+                    "content": "C006는 용서를 구하고 함께 손을 잡는다."
+                }
+            ]
+        }
+    ]
+}

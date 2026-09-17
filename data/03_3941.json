@@ -1,0 +1,2548 @@
+{
+    "id": "03_3941",
+    "type": "novel",
+    "title": "최강인 내가 평행세계로 날아온 건에 대하여 7",
+    "genre": [
+        "판타지",
+        "SF",
+        "액션"
+    ],
+    "year": 2021,
+    "theme": "상승",
+    "concept": "복수에 성공한 C001이 C002에게 마법사들을 조사하라고 시키고 C003을 감옥에 가둔다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "몰락한 귀족",
+    "main_character": "몰락한 귀족",
+    "conflict": "몰락한 귀족 C001이 강해져서 방계들을 처리하고 몰락한 가문의 입지를 다지려고 한다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "교단2",
+        "C005",
+        "C006",
+        "C007",
+        "C008",
+        "C009",
+        "C010"
+    ],
+    "units": [
+        {
+            "id": "03_3941_01",
+            "next_id": "03_3941_02",
+            "characters": [
+                "C002",
+                "C003"
+            ],
+            "stage": "Opening Salvo",
+            "storyline": "C002가 C003을 고문해서 마나 저장소의 위치와 교단에 대해 알아낸다.",
+            "unit_motif": "정보 획득",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "일어나다/깨우다",
+                    "emotion": "무감각함",
+                    "content": "C003을 깨운다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "무섭다",
+                    "content": "너는 누구야?"
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무감각함",
+                    "content": "C001 님의 책 사입니다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "emotion": "무감각함",
+                    "content": "고문 도구를 꺼내 든다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "내 질문에 잘 대답하면 편하게 죽을 수 있어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "C002를 보며 두려움을 느낀다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "content": "마나 저장소는 어디 있죠?"
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "생각하다",
+                    "content": "어디에 쓰는지는 몰라도 좋은 물건인가 봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "해치다",
+                    "emotion": "무감각함",
+                    "content": "C003을 송곳으로 찔러 고문한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무섭다",
+                    "content": "고통스러워하면서 마나 저장소의 위치를 말한다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무섭다",
+                    "content": "내 집무실에 있어!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "간호/치료하다",
+                    "emotion": "무감각함",
+                    "content": "지혈제를 C003의 상처에 뿌린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "무감각함",
+                    "content": "C003에게 교단이나 마법사에 대해 아는 게 있는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "무섭다",
+                    "content": "잠깐 생각할 시간을 줘!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "감옥",
+                    "character": [
+                        "C002"
+                    ],
+                    "content": "C003의 대답을 기다린다."
+                },
+                {
+                    "type": "script",
+                    "location": "감옥",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "대답한다",
+                    "content": "사이비들을 말하는 거야?"
+                }
+            ]
+        },
+        {
+            "id": "03_3941_02",
+            "prev_id": "03_3941_01",
+            "next_id": "03_3941_03",
+            "characters": [
+                "C002",
+                "C001"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002가 책2라는 교단의 책을 C001에게 보고한다.",
+            "unit_motif": "상황 설명",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "만족하다",
+                    "content": "C001에게 C003에게서 알아낸 내용을 보고한다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "emotion": "만족하다",
+                    "content": "마나 저장소의 위치를 알아냈습니다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "보고하다",
+                    "content": "용족을 찬양하는 책2라는 책이 있다고 하더군요."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "전생에서 용족을 찬양하는 사람은 다른 사람들에게 맞았을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "준다",
+                    "content": "C001에게 책2를 건네준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "읽다",
+                    "emotion": "궁금하다",
+                    "content": "책2를 읽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "평민들도 읽기 쉽게 만들었어."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "용족이 쓰는 마나 호흡법을 적어놓았어."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "황당하다",
+                    "content": "하지만 이렇게 허접해서는 쓰는 사람이 일찍 죽겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "교단이 이런 방식으로 사람들을 끌어들였구나."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C002에게 용족에 대해 어떻게 생각하는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "괴물이라고 생각해요."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "보통 사람이라면 왕국을 침범한 용족을 좋아하진 않을 거야."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_03",
+            "prev_id": "03_3941_02",
+            "next_id": "03_3941_04",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C001이 C002에게 교단2라는 교단에 대한 정보를 얻고 전생의 기억에서 교단2라는 이름의 용족을 떠올린다.",
+            "unit_motif": "상황 파악",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "책은 어디서 났어?"
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "C003의 서재에 있었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C003이 용족을 좋아하는 것 같아?"
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "아니요. C003은 교단을 사이비라고 불렀어요."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "C003은 교단2라는 교단을 조사하려고 책을 얻은 것 같아요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C003이 책2를 어디서 얻었는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "남작가의 영지에 있는 상단1 상단에서 구했다고 했어요."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "말하다",
+                    "content": "책의 양이 많은 걸로 보아 근처에 인쇄소가 있는 것 같다고 했고요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "교단2에 관한 전생의 기억을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "교단2는 용족의 군단장 중 하나면서 용인 종족2였어."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "용인 종족2는 용족의 여러 종족 중 하나야."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "용인 종족2는 다른 모습으로 변신을 할 수 있었어."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "높은 등급의 기사가 아니면 교단2처럼 높은 등급의 용인 종족2를 알아볼 수 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "전생에서 교단2를 찾기 위해 추적 아이템을 썼던 걸 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "난감하다",
+                    "content": "추적 아이템으로 교단2를 오랫동안 쫓고 나서야 찾아서 죽일 수 있었지."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_04",
+            "prev_id": "03_3941_03",
+            "next_id": "03_3941_05",
+            "characters": [
+                "C001",
+                "C002"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C002가 상단1 상단의 위치를 C001에게 알려주고 C001이 교단을 처리하러 떠난다.",
+            "unit_motif": "여정의 시작",
+            "causality": "First Action(시작)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C002에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C003은 교단2를 그냥 뒀어?"
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "다른 귀족들이 교단을 묵인했다고 들었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "귀족들은 교단을 신고한 사람이 다쳐도 못 본 체한다고요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "C002에게 C003이 교단의 위치를 아는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "C001에게 C003도 모르는 것 같다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "판단하다",
+                    "emotion": "거부감",
+                    "content": "교단의 인쇄소를 처리해야겠다고 판단한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "찾는다",
+                    "content": "C002가 집무실에 숨겨져 있던 마나 저장소 중 하나를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "마나 저장소를 자신의 몸에 흡수시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "emotion": "만족하다",
+                    "content": "마나 저장소에 마나를 가득 채운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "인쇄소를 찾으려면 먼저 상단1에 가야겠다고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "책을 유통한 상단1은 어디에 있어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C002"
+                    ],
+                    "act": "대답한다",
+                    "content": "상단1이 마을2라는 근처 마을에 있다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "자신감 있다",
+                    "content": "마을2로 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_05",
+            "prev_id": "03_3941_04",
+            "next_id": "03_3941_06",
+            "characters": [
+                "C001",
+                "C005",
+                "사병들"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001이 C005에게 상단1 상단까지 가는 안내를 맡긴다.",
+            "unit_motif": "여정",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "마을2에 도착해 마차에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "불안하다",
+                    "content": "C001에게 공손히 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "회상하다",
+                    "emotion": "안심/안도하다",
+                    "content": "C002가 C001이 간다고 편지를 보낸 것을 회상한다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "안심/안도하다",
+                    "content": "미리 알아서 다행이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공개하다/드러내다",
+                    "emotion": "화나다",
+                    "content": "책2를 꺼내 C005에게 보인다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "상단1 상단 알아?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "항복하다",
+                    "emotion": "무섭다",
+                    "content": "무릎을 꿇고 C001에게 용서를 빈다."
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "후회하다",
+                    "content": "이상한 책이 퍼지고 있는 걸 알았지만 막을 수 없었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "무감각함",
+                    "content": "행정관인 네가 막을 수 없었겠지."
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "무감각함",
+                    "content": "하지만 보고만 있었던 것은 맞지?"
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무섭다",
+                    "content": "맞아요."
+                },
+                {
+                    "type": "script",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "무감각함",
+                    "content": "상단1 상단까지 잘 안내하면 살려줄게."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C001",
+                        "C005",
+                        "사병들"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C005이 사병을 이끌고 C001과 상단1 상단으로 이동한다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_06",
+            "prev_id": "03_3941_05",
+            "next_id": "03_3941_07",
+            "characters": [
+                "C001",
+                "상단 직원",
+                "C005",
+                "용병들",
+                "용병1",
+                "용병2"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001이 상단주를 찾다가 교단2가 책을 나눠주는 곳이 자작가의 영지에도 있다는 걸 알게 된다.",
+            "unit_motif": "정보 획득",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "상단 직원에게 책2에 대해 아는지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단 직원"
+                    ],
+                    "act": "거절하다",
+                    "emotion": "망설이다",
+                    "content": "머뭇거리며 말하지 않는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "화나다",
+                    "content": "상단 직원에게 C001이 C001임을 밝히며 빨리 말하라고 위협한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단 직원"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무섭다",
+                    "content": "상단주가 가져온 책이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "상단주가 어디 있는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단 직원"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "무섭다",
+                    "content": "위층에 있어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "상단주를 찾아 계단을 오른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "C001을 보고 불평한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불만족스럽다",
+                    "content": "우리가 먼저 예약했어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병들"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "C001을 자세히 보고 C001이 기사라고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "망설이다",
+                    "content": "기사 나리 먼저 하세요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "용병들에게 뭘 예약했는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병1"
+                    ],
+                    "act": "대답한다",
+                    "content": "여기서 마나 호흡법이 적힌 책을 준다고 해서 예약을 했어요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "용병들에게 책2를 주는 다른 곳을 아냐고 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "대답한다",
+                    "content": "자작가의 영지에도 책을 나눠주는 곳이 있다고 들었어요."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "자작가는 C010의 편인 가문이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "준다",
+                    "content": "용병2에게 금화를 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "조언/충고하다",
+                    "content": "용병들에게 책2에 적힌 마나 호흡법을 쓰면 일찍 죽는다고 충고한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "판단하다",
+                    "content": "용병2가 C001의 말을 듣고 책2를 받지 않기로 결심한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "만족하다",
+                    "content": "용병2가 계단을 내려간다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "묻는다",
+                    "content": "C001 님에게 무례하게 굴지 않았겠지?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "듣다",
+                    "emotion": "당황하다",
+                    "content": "C005의 말을 이해하지 못하고 어리둥절해 한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "귀찮다",
+                    "content": "아니야. 나가."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_07",
+            "prev_id": "03_3941_06",
+            "next_id": "03_3941_08",
+            "characters": [
+                "C001",
+                "상단주",
+                "용병들"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C001이 상단주를 찾아 제압해서 인쇄소까지 안내하도록 만든다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "찾는다",
+                    "content": "상단주를 찾아 집무실로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "갑자기 들어온 C001을 보고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "상단주에게 책2를 퍼트렸냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "용병들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불쾌하다",
+                    "content": "C001에게 순서를 지키라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "용병들을 집무실에서 내쫓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "상단주에게 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "화나다",
+                    "content": "어디서 책을 받아왔어?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "emotion": "불안하다",
+                    "content": "C005을 언급하며 C001을 위협한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "위협하다/협박하다",
+                    "content": "나를 건드리면 행정관이 가만있을까?"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "상단주의 어깨뼈를 손으로 쥐어서 부순다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "항복하다",
+                    "emotion": "괴롭다",
+                    "content": "아파서 소리 지른다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "항복하다",
+                    "content": "인쇄소 위치를 알려드릴 테니 살려주세요!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "동의하다",
+                    "content": "상단주의 어깨를 손에서 놓는다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "설득하다",
+                    "emotion": "불안하다",
+                    "content": "제가 안내할 수 있는데 우리 둘만 가기에는 위험해요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단주 집무실",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "시키다",
+                    "content": "상단주의 말을 무시하고 안내하라고 시킨다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_08",
+            "prev_id": "03_3941_07",
+            "next_id": "03_3941_09",
+            "characters": [
+                "상단주",
+                "C001",
+                "C005"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001이 C005을 용서하고 상단주와 인쇄소가 있는 산1 산으로 출발한다.",
+            "unit_motif": "추적/수색",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주",
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "계단을 내려간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "보다",
+                    "emotion": "반갑다",
+                    "content": "C005과 사병들을 발견한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "반갑다",
+                    "content": "C003이 우리 상단을 내버려 뒀으니까 행정관에게 도움을 청해야지."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "반갑다",
+                    "content": "행정관에게 뇌물을 준 적은 없지만 날 도와줄 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "소리치다",
+                    "emotion": "반갑다",
+                    "content": "C005에게 도움을 요청하려 말을 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "때리다",
+                    "emotion": "불안하다",
+                    "content": "상단주의 뺨을 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "C001에게 변명한다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "C001님. 저는 상단주와 아무 관련이 없어요."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "emotion": "불안하다",
+                    "content": "힘이 없어서 교단을 내버려 뒀을 뿐이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "content": "C002가 보여준 서류에서 C005은 청렴하다고 읽었던 기억을 떠올린다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "앞으로 잘하면 용서할게."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C005"
+                    ],
+                    "act": "말하다",
+                    "content": "C001에게 고마움을 표하며 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "상단주에게 인쇄소의 위치를 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "대답한다",
+                    "content": "산1 산이에요."
+                },
+                {
+                    "type": "narrative",
+                    "location": "상단1 건물",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "마차를 타고 산1 산으로 떠난다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_09",
+            "prev_id": "03_3941_08",
+            "next_id": "03_3941_10",
+            "characters": [
+                "C001",
+                "상단주"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C001이 상단주의 안내로 인쇄소를 찾고 상단주에게 인쇄소와 관련된 정보를 얻는다.",
+            "unit_motif": "전투 준비",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "시키다",
+                    "content": "마부를 시켜 마차를 산 아래 대기시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001",
+                        "상단주"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "인쇄소를 향해 산 위쪽으로 걷는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "상단주에게 인쇄소에 대해 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "궁금하다",
+                    "content": "인쇄소를 지키는 사람은 흑마법사야?"
+                },
+                {
+                    "type": "script",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "대답한다",
+                    "emotion": "자신감 있다",
+                    "content": "아니요, 화염을 쓰는 마법사일 거예요."
+                },
+                {
+                    "type": "script",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "대답한다",
+                    "content": "촛불로 마법사와 연락한 적이 있거든요."
+                },
+                {
+                    "type": "script",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "무섭다",
+                    "content": "내가 C001에게 정보를 주었다는 걸 교단이 알면 나를 죽일 거야."
+                },
+                {
+                    "type": "script",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "차라리 C001가 인쇄소에 있는 사람들을 이기는 게 나아."
+                },
+                {
+                    "type": "script",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "C006가 만난 검은 로브를 입은 마법사가 속한 집단과 교단의 마법사들과 관련이 있을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001",
+                        "상단주"
+                    ],
+                    "act": "발견하다",
+                    "content": "멀리 동굴을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "말하다",
+                    "emotion": "초조하다",
+                    "content": "C001에게 동굴이 인쇄소라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "말하다",
+                    "content": "바닥에 동굴의 약도를 그린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "상단주에게 마법사가 몇 명인지 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "상단주"
+                    ],
+                    "act": "대답한다",
+                    "content": "모르겠다고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "담담하다",
+                    "content": "마나로 상단주의 다리를 잠시 못쓰게 만든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "담담하다",
+                    "content": "상단주에게 기다리라고 명령한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "담담하다",
+                    "content": "혼자 동굴로 들어간다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_10",
+            "prev_id": "03_3941_09",
+            "next_id": "03_3941_11",
+            "characters": [
+                "C001",
+                "용병2",
+                "E001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001이 교단이 영지인들에게 범죄를 저지르고도 처벌받지 않는다는 말을 듣고 화가 난다.",
+            "unit_motif": "상황 파악",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "황당하다",
+                    "content": "동굴 입구에 경비병이 없다는 걸 알아챈다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "그동안 경계할 필요가 없었던 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "동굴 안쪽으로 들어간다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "궁금하다",
+                    "content": "그래서 어떻게 됐어?"
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "자랑스럽다",
+                    "content": "남편 목에 칼을 대니까 여자가 얌전해졌어."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "자랑스럽다",
+                    "content": "마나 덕분에 납치하기가 훨씬 쉬워졌어."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "걱정",
+                    "content": "그러다 수석 사제 님에게 들키면 어떡해?"
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "담소를 나누다",
+                    "emotion": "안심/안도하다",
+                    "content": "E002이 사고 쳐서 수사가 시작됐는데 수석 사제 님이 수사를 멈췄잖아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "content": "E001과 용병2의 대화를 듣고 화가 난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "E001과 용병2의 옷에 용의 얼굴 모양의 표식을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "용병2",
+                        "E001"
+                    ],
+                    "act": "보다",
+                    "emotion": "당황하다",
+                    "content": "C001을 발견하고 마나를 검에 입힌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "E001과 용병2의 마나를 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "흑마법사가 쓰던 호흡법을 써서 강해졌구나."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "저들은 경보 버튼을 누를 생각이 없어."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_11",
+            "prev_id": "03_3941_10",
+            "next_id": "03_3941_12",
+            "characters": [
+                "용병2",
+                "E001",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001이 용병들이 쓰는 마나 호흡법을 살펴보고 동굴에 있는 용병들을 죽인다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "용병2"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "E001에게 자신이 C001과 싸우는 동안 끼어들지 말라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "emotion": "자신감 있다",
+                    "content": "용병2의 말을 비웃는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "죽이다",
+                    "emotion": "화나다",
+                    "content": "용병2에게 다가가 용병2를 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "보다",
+                    "emotion": "무섭다",
+                    "content": "C001이 용병2를 쉽게 죽이는 걸 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "무섭다",
+                    "content": "달려가 경보 버튼을 누르려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "E001의 손을 공격한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "놀라다",
+                    "content": "내 손에 마나를 날려서 벽까지 부서졌어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "화나다",
+                    "content": "E001의 목을 잡아 마나를 흘려 넣는다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "화나다",
+                    "content": "내 영주민들을 괴롭힌 대가야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "다치다",
+                    "emotion": "괴롭다",
+                    "content": "C001의 마나에 고통스러워하면서도 움직이지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "content": "E001의 혈관을 따라 마나를 넣으면서 E001이 마나 호흡법을 확인한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "용족의 호흡법이네."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "심장에 마나를 모으는 방식을 따라 하면 마나를 더 빨리 모을 수 있겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "마나 저장소는 액체니까 심장에 모을 수 있겠지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "더 나은 용족의 호흡법을 찾아야겠다고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "이대로 따라 하면 일찍 죽을 테니까."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "E001"
+                    ],
+                    "act": "죽다",
+                    "content": "C001의 뜨거운 마나로 인해 죽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "동굴 안쪽으로 계속 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "죽이다",
+                    "content": "마주치는 용병들을 전부 죽인다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_12",
+            "prev_id": "03_3941_11",
+            "next_id": "03_3941_13",
+            "characters": [
+                "C001",
+                "C007"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C001이 용병들을 죽이며 동굴 안쪽으로 이동하다가 C007과 만난다.",
+            "unit_motif": "적의 등장",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "동굴 안쪽으로 계속 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "죽이다",
+                    "content": "마주치는 용병들을 전부 죽인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "듣다",
+                    "content": "동굴 안에서 침입자가 있다고 말하는 소리를 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "넓은 공간에 용병들이 석궁을 들고 있는 걸 본다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "생각보다 교단의 힘이 센 것 같아."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "content": "C001에게 누구냐고 묻는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "대답한다",
+                    "content": "집주인이라고 대답한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "명령하다",
+                    "emotion": "긴장되다",
+                    "content": "용병들에게 석궁을 쏘라고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "방어하다",
+                    "content": "날아오는 화살을 검의 마나로 녹인다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "기사면서 불의 마나를 쓰는 걸 보니 C001다!"
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "난감하다",
+                    "content": "교단을 안 이상 우리를 계속 추적하겠어."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "하지만 반대로 C001를 죽일 기회다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "C001을 죽이면 교단이 상급의 책2를 줄 거라고 생각한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "기대되다",
+                    "content": "그럼 교단의 핵심인 주교단에 들어갈 수 있을 거야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "죽이다",
+                    "content": "용병들을 죽인다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_13",
+            "prev_id": "03_3941_12",
+            "next_id": "03_3941_14",
+            "characters": [
+                "C007",
+                "C001"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C001이 C007을 제압한다.",
+            "unit_motif": "적 제압/퇴치",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "만들다",
+                    "content": "간단한 말로 불로 된 채찍을 만든다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "용족처럼 주문 대신 간단한 말로 마법을 쓰는구나."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "회상하다",
+                    "content": "용인 종족4들이 이런 말 마법을 썼었지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "공격하다",
+                    "content": "간단한 말로 C001의 발에 불로 된 족쇄를 채운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "보다",
+                    "content": "자기 발에 묶인 족쇄를 관찰한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "emotion": "놀라다",
+                    "content": "말 마법이 그냥 마법보다 약한데 이건 제대로 작동하네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "방어하다",
+                    "content": "불 마나 응축을 진동시켜 불로 된 족쇄의 에너지를 흡수한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "emotion": "비장하다",
+                    "content": "마법 마나 응축을 진동시켜 불로 된 채찍에 속성들을 집어넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "공격하다",
+                    "content": "C007이 말 마법을 사용한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "다치다",
+                    "emotion": "괴롭다",
+                    "content": "힘을 많이 써서 피를 토한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "공격하다",
+                    "content": "C001에게 채찍을 휘두른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "피하다/회피하다",
+                    "content": "채찍을 피한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "마나 저장소와 불 마나 응축에서 마나를 꺼내서 C007에게 공격 스킬1을 날린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "보다",
+                    "emotion": "놀라다",
+                    "content": "C001의 공격 스킬1을 보고 놀란다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "비참하다",
+                    "content": "나는 불 마법을 연구하느라 오랜 세월을 보냈는데 젊은 C001가 이런 엄청난 스킬을 쓰다니!"
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "공격하다",
+                    "content": "공격 스킬1이 채찍의 마나를 흡수하고 C007을 공격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "쓰러지다",
+                    "emotion": "괴롭다",
+                    "content": "쓰러져 고통스러워한다."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_14",
+            "prev_id": "03_3941_13",
+            "next_id": "03_3941_15",
+            "characters": [
+                "C001",
+                "C007"
+            ],
+            "stage": "Defeat",
+            "storyline": "C001이 C007에게 정보를 얻으려다 실패한다.",
+            "unit_motif": "실패",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "해치다",
+                    "content": "C007에게 마나를 흘려 넣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "인지하다/알게되다",
+                    "content": "마나로 C007의 마법 마나 응축과 마나 호흡법을 인지한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "이렇게 정교한 마나 호흡법이라면 베껴서 쓸만하겠어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C007에게 어디에 속해 있는지 묻는다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "자랑스럽다",
+                    "content": "C006가 말했나?"
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자랑스럽다",
+                    "content": "그래. 나보다 강한 마법사들의 단체가 있지."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "공격하다",
+                    "emotion": "비장하다",
+                    "content": "마나를 모아 폭발 마법을 쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "방해하다",
+                    "emotion": "담담하다",
+                    "content": "C007의 폭발을 막는다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "요구하다",
+                    "emotion": "담담하다",
+                    "content": "내가 당할 줄 알았어? 말해."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "말하다",
+                    "content": "C008와 약속해서 말할 수 없어."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C007"
+                    ],
+                    "act": "죽다",
+                    "content": "C007의 머리가 터진다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "불만족스럽다",
+                    "content": "교단2의 C008가 비밀을 말하지 못하게 조치를 걸어놨네."
+                }
+            ]
+        },
+        {
+            "id": "03_3941_15",
+            "prev_id": "03_3941_14",
+            "characters": [
+                "C001",
+                "상단주"
+            ],
+            "stage": "Final Salvo",
+            "storyline": "C001이 동굴에서 문양과 휘장을 보고 C007의 마나 호흡법을 자신에게 맞게 적용한다.",
+            "unit_motif": "성공",
+            "causality": "Achievement(성취/보상)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "content": "인쇄기를 살핀다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "content": "정교한 걸 보니 드워프가 만들었나 봐."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "content": "인쇄기에서 문양을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "판단하다",
+                    "emotion": "궁금하다",
+                    "content": "C009에게 편지를 보내 누구의 문양인지 물어보기로 결정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "content": "C007의 몸을 수색한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "궁금하다",
+                    "content": "C007의 옷에서 용이 그려진 휘장을 발견하고 챙긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수색하다",
+                    "content": "C007의 방을 수색한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "읽다",
+                    "emotion": "궁금하다",
+                    "content": "C007의 마법서를 읽는다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "content": "이 책은 불 마법에 관한 책인데 엉뚱한 문장이 있네."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "발견하다",
+                    "emotion": "궁금하다",
+                    "content": "책들에서 이상한 문장들을 조합한다."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "놀라다",
+                    "content": "수석 사제가 쓰던 마나 호흡법의 이론이야."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "이대로 하면 마나를 빨리 모을 수 있고 부작용도 적어."
+                },
+                {
+                    "type": "script",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "만족하다",
+                    "content": "가문의 호흡법은 좋은 질의 마나를 쌓는 방식이고 이건 마나를 빨리 많이 쌓는 방식이야."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "생각하다",
+                    "emotion": "궁금하다",
+                    "content": "C008가 가진 스킬을 알고 싶다고 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "수련한다",
+                    "content": "마나 저장소를 심장에 모으고 마나를 쌓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "동굴",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "동굴을 나간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "간호/치료하다",
+                    "content": "상단주가 다리를 쓸 수 있게 만들고 마차에 탄다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "산1",
+                    "character": [
+                        "C001",
+                        "상단주"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "마을2로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "시키다",
+                    "emotion": "만족하다",
+                    "content": "인쇄기를 마을에 가져다 놓으라고 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "마을2",
+                    "character": [
+                        "C001",
+                        "상단주"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "도시3으로 이동한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도시3",
+                    "character": [
+                        "C001"
+                    ],
+                    "act": "시키다",
+                    "emotion": "만족하다",
+                    "content": "기사들에게 상단주를 감옥에 넣으라고 시킨다."
+                }
+            ]
+        }
+    ]
+}

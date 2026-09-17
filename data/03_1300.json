@@ -1,0 +1,2666 @@
+{
+    "id": "03_1300",
+    "type": "novel",
+    "title": "피아노 연주",
+    "genre": [
+        "드라마"
+    ],
+    "year": 1999,
+    "theme": "사랑",
+    "concept": "갑작스러운 교통사고로 아내와 딸의 영혼이 바뀌고 딸의 영혼이 다시 돌아와 다른 남자와 결혼했는데 아내였다.",
+    "structure": "스토리헬퍼 15단계",
+    "motif": "빙의",
+    "main_character": "제자/학생",
+    "conflict": "갑작스러운 버스 사고로 딸과 영혼이 바뀐 부인이 그 사실을 남편에게 말하고 부부로써 생활하려 하지만 남편 입장에서는 딸과 부부관계를 가져야 한다는 생각에 거부하게 된다. 부인은 자신의 딸처럼 행동을 하다 결혼을 하고 남편은 결혼식 당일 딸이 아닌 부인인 것을 알게 된다.",
+    "characters": [
+        "C001",
+        "C002",
+        "C003",
+        "C004",
+        "C005",
+        "C006"
+    ],
+    "units": [
+        {
+            "id": "03_1300_01",
+            "next_id": "03_1300_02",
+            "characters": [
+                "C006",
+                "C003",
+                "C004",
+                "의사"
+            ],
+            "stage": "Main Character",
+            "storyline": "나고야의 눈 덮인 산맥을 따라 버스 한 대가 지나가고 있다. 운전기사의 졸음운전으로 C006와 그녀의 엄마가 탄 버스가 추락하고 두 사람은 의식 불명에 빠진다. C003는 결국 숨을 거두지만 깨어난 C006가 C003에 빙의된다.",
+            "unit_motif": "낯선 곳으로의 이주",
+            "causality": "Misdirection(잘못된 선택)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나고야 설원",
+                    "act": "간다/이동한다",
+                    "content": "나고야의 눈이 덮인 산맥의 모습을 헬리콥터가 보여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나고야 설원",
+                    "act": "간다/이동한다",
+                    "content": "버스 한 대가 길을 달리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "부수다",
+                    "content": "버스를 타고 가는 C006와 그녀의 엄마 C003가 잠에서 깬다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "부수다",
+                    "emotion": "피곤하다",
+                    "content": "운전기사가 졸음운전으로 커브길에서 버스가 추락한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C006의 아빠 C004가 아침을 먹다가 뉴스에서 C006 모녀의 사고 소식을 전해 듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 충격을 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "나가기 전에 C003가 그의 턱을 쓰다듬는 장면을 회상한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 로비",
+                    "act": "만나다",
+                    "content": "도착한 병원으로 뛰어들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병원 로비",
+                    "act": "만나다",
+                    "content": "수많은 피해자의 가족들과 취재진이 몰려있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "의사",
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "걱정",
+                    "content": "병실에 도착한 C004에게 의사는 모녀의 상태가 모두 좋지 않다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "의사",
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C003의 상태가 위독해지자 C004가 C003에게 C006의 손을 쥐여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "의사",
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "절망하다",
+                    "content": "C003의 숨이 멎는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "의사",
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "그때 C006가 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "의사",
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "황당하다",
+                    "content": "C006는 자신이 엄마인 C003라고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_02",
+            "prev_id": "03_1300_01",
+            "next_id": "03_1300_03",
+            "characters": [
+                "C004",
+                "C003"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C004는 자신이 C003라고 주장하는 C006를 보면서 그녀가 빙의된 것인지 의심하지만 그녀가 보여주는 C003의 행동들을 보면서 점차 믿게 된다.",
+            "unit_motif": "빙의",
+            "causality": "Preparation for the ordeal(마지막 대격전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "몽타주",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "답답하다",
+                    "content": "C003의 장례식이 치러지고 C006는 자신이 C003 임을 증명하기 위해 C004와의 과거 이야기를 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "혼란스럽다",
+                    "content": "C004는 그녀의 딸이 이제 C003 임을 깨닫고 아무에게도 같은 이야기를 하지 않는 게 좋겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "병실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "걱정",
+                    "content": "두 사람은 앞일을 걱정한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길가",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006와 C004는 차를 타고 집으로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "심란하다",
+                    "content": "집에 돌아온 C006는 자신의 죽음을 확인하고 이상한 기분이 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 정원",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "화분에 물을 챙겨주는 C006를 보면서 C004는 그녀가 C003 임을 확신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C006는 C004의 옆에서 함께 잠이 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 현관",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "사랑스럽다",
+                    "content": "C006는 예전의 C003처럼 출근하는 C004의 턱을 만져준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 직장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만들다",
+                    "content": "C004는 새로 개발하는 라면의 국물을 시음한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 직장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만들다",
+                    "content": "그는 관서지방의 라면 국물 맛을 재현하기 위해 힘쓴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 직장 연구실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "만들다",
+                    "emotion": "걱정",
+                    "content": "여직원들이 부쩍 수척해진 C004의 모습을 보고 걱정한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_03",
+            "prev_id": "03_1300_02",
+            "next_id": "03_1300_04",
+            "characters": [
+                "C003",
+                "C004",
+                "C006"
+            ],
+            "stage": "Setting-up",
+            "storyline": "C006는 C006 방에서 C006를 되돌아본다.",
+            "unit_motif": "빙의",
+            "causality": "Suggestion(제안)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006가 C006의 방에 들어온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "심란하다",
+                    "content": "그녀는 자신이 C003이던 시절 C006를 깨우던 모습을 회상하며 그녀의 침대에 눕는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "content": "C004는 도서관에서 빙의에 관한 연구 서적들을 찾아본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "찾는다",
+                    "emotion": "기대되다",
+                    "content": "그가 찾아본 사례에는 2년간 다른 사람으로 빙의해 있다가 원래 모습으로 돌아온 소녀의 이야기가 적혀있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 현관",
+                    "character": [
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "찾는다",
+                    "content": "불꽃놀이를 하는 C006와 C003의 모습이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "도서관",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004는 빙의를 당했던 소녀가 자신이 잘 알고 있던 중년 여성으로 빙의 되었단 이야기를 보고 C006와 C003를 떠올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "혼란스럽다",
+                    "content": "C006가 C006의 교복을 입어보고 거울에 자신을 비춰본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "먹는다",
+                    "content": "C004가 퇴근하여 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "자신감 있다",
+                    "content": "그는 C006가 만들어 놓은 음식을 맛보며 그녀가 C003 임을 확신한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "먹는다",
+                    "content": "그때 C006의 교복을 입은 C006를 보고 C004는 놀란다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_04",
+            "prev_id": "03_1300_03",
+            "next_id": "03_1300_05",
+            "characters": [
+                "C004",
+                "C003",
+                "C005",
+                "선생님",
+                "C002"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C003는 집 밖에서는 C006의 삶을 집에서는 C003의 삶을 살기로 한다.",
+            "unit_motif": "변장",
+            "causality": "Showdown(결전)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "씁쓸하다",
+                    "content": "밖에서는 C006로 사는 것이 좋을 것 같다는 C006의 말에 C004는 동의하지만 씁쓸한 표정을 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C006는 C006가 아끼던 곰인형에 결혼반지를 넣고 다니기로 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "잠든 두 사람 뒤로 C003의 영정사진이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "등굣길",
+                    "act": "간다/이동한다",
+                    "content": "C006와 같은 학교 교복을 입은 학생들이 학교로 등교하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 현관",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "content": "신발을 갈아 신는 C006에게 친구 C005가 다가와 인사를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 현관",
+                    "character": [
+                        "C003",
+                        "C005"
+                    ],
+                    "act": "만나다",
+                    "emotion": "궁금하다",
+                    "content": "C005는 길어진 C006의 교복 치마를 보며 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 교무실",
+                    "character": [
+                        "선생님"
+                    ],
+                    "act": "만들다",
+                    "emotion": "걱정",
+                    "content": "C004가 C006의 담임선생님을 찾아가 딸이 사고 충격으로 후유증이 있을 것이라 말해둔다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 교무실",
+                    "character": [
+                        "선생님"
+                    ],
+                    "act": "만들다",
+                    "content": "C006의 담임선생님이 다리를 꼬는 것을 본 C004가 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 복도",
+                    "character": [
+                        "C003",
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "당황하다",
+                    "content": "C006가 평소에 아는체하지 않던 C002에게 인사하는 것을 보고, C005가 이상하게 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 복도",
+                    "character": [
+                        "C003",
+                        "C002",
+                        "C005"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C006의 다른 친구들이 C006에게 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C003",
+                        "선생님"
+                    ],
+                    "act": "만들다",
+                    "content": "수학 시간이 되자 담임 선생님이 C006에게 칠판에서 문제를 풀어보라고 시킨다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교실",
+                    "character": [
+                        "C003",
+                        "선생님"
+                    ],
+                    "act": "만들다",
+                    "emotion": "당황하다",
+                    "content": "수업 내용을 전혀 이해하지 못하던 C006는 순간 당황한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_05",
+            "prev_id": "03_1300_04",
+            "next_id": "03_1300_06",
+            "characters": [
+                "C003",
+                "C004",
+                "운전기사의 아들",
+                "운전기사"
+            ],
+            "stage": "1st Accident",
+            "storyline": "C004의 우려와 달리 C006의 몸에 그녀의 습성이 베여있던 탓에 C003는 잘 적응해 나간다.",
+            "unit_motif": "변장",
+            "causality": "Mentor-hero conflict(스승과의 갈등)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 욕실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "content": "C004가 목욕을 하고 있자, C006가 들어와 등을 밀어주겠다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 욕실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "당황하다",
+                    "content": "C004는 순간 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 욕실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C006는 학교에서 있었던 일을 이야기하며 두뇌는 여전히 C006의 것이라 수학 문제를 잘 풀 수 있었다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "사고 경위와 보상액을 발표하는 버스회사의 회견장에 C004와 C006가 참석한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "회견장에 사고를 낸 운전기사의 아들이 와 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "그는 피해자의 가족들에게 적대적인 태도를 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "회의실 밖",
+                    "character": [
+                        "C003",
+                        "운전기사의 아들"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "우울하다",
+                    "content": "C006가 그를 쫓아가서 운전기사의 아들의 태도를 타이르지만 그는 공격적이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차안",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004와 C006가 차를 타고 집으로 돌아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차안",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "걱정",
+                    "content": "C006는 죽은 운전기사가 불쌍하다고 말하며 사고가 난 날 버스에서 들은 이야기를 C004에게 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "운전기사"
+                    ],
+                    "act": "말하다",
+                    "content": "교대시간이 된 운전기사가 지난밤 몰래 한 트럭 운전 아르바이트로 피곤해한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "운전기사"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "동료 운전기사가 그를 말리지만 운전기사는 가족의 행복을 위해 돈을 벌어야 한다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "차안",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "담담하다",
+                    "content": "C004는 C006에게 손해 배상 문제는 자신이 처리할 테니 사고에 대한 기억은 그만 지우라고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_06",
+            "prev_id": "03_1300_05",
+            "next_id": "03_1300_07",
+            "characters": [
+                "C003",
+                "C002",
+                "선생님",
+                "C004"
+            ],
+            "stage": "Doubts & Debate",
+            "storyline": "C006와 C004 사이에 C006의 담임 선생님이 접근한다. C004도 그녀에게 호감을 갖는다. C006는 그녀가 내심 신경 쓰인다.",
+            "unit_motif": "삼각관계",
+            "causality": "Approaching the threshold(임계점 도달)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "체육관",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "체육시간에 C006가 뛰어난 실력으로 농구를 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "체육관",
+                    "character": [
+                        "C003",
+                        "C002"
+                    ],
+                    "act": "놀다",
+                    "emotion": "열광하다",
+                    "content": "친구 C002가 그녀를 응원하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "체육관 밖",
+                    "character": [
+                        "C003",
+                        "선생님"
+                    ],
+                    "act": "말하다",
+                    "content": "담임 선생님이 C006를 부른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "체육관 밖",
+                    "character": [
+                        "C003",
+                        "선생님"
+                    ],
+                    "act": "말하다",
+                    "emotion": "걱정",
+                    "content": "그녀는 C006의 근황을 물으며 걱정해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "content": "저녁을 먹으며 C006는 담임선생님의 지나친 관심이 불편하다고 말하지만, C004는 걱정해주는 것뿐이라고 핀잔을 준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "당황하다",
+                    "content": "C006가 C004에게 앞으로 잠자리는 어떻게 할 것이냐 묻자 C004는 어떻게 딸과 성관계를 맺냐며 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "character": [
+                        "C004",
+                        "선생님"
+                    ],
+                    "act": "만나다",
+                    "content": "C004가 자사의 컵라면을 더 좋은 진열대 위로 옮긴다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "편의점",
+                    "character": [
+                        "C004",
+                        "선생님"
+                    ],
+                    "act": "만나다",
+                    "content": "그때 C006의 담임 선생님이 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공원",
+                    "character": [
+                        "C004",
+                        "선생님"
+                    ],
+                    "act": "때리다",
+                    "content": "선생님과 C004가 함께 공원으로 걸어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공원",
+                    "character": [
+                        "C004",
+                        "선생님"
+                    ],
+                    "act": "때리다",
+                    "emotion": "기대되다",
+                    "content": "C006가 의대를 가기로 했다는 선생님의 말을 듣고 C004가 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공원",
+                    "character": [
+                        "C004",
+                        "선생님"
+                    ],
+                    "act": "때리다",
+                    "content": "두 사람이 함께 있는 모습을 보고 C006가 다가와 C004의 머리를 때린다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_07",
+            "prev_id": "03_1300_06",
+            "next_id": "03_1300_08",
+            "characters": [
+                "C003",
+                "C004",
+                "C006의 할아버지"
+            ],
+            "stage": "Making a Choice",
+            "storyline": "C006와 C004 사이에 C006의 담임 선생님이 접근한다. C004도 그녀에게 호감을 갖는다. C006는 그녀가 내심 신경 쓰인다.",
+            "unit_motif": "취향의 재발견",
+            "causality": "Touch of the death(애석한 죽음)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "공원 놀이터",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "궁금하다",
+                    "content": "C006는 자신에게 빙의가 일어난 이유를 알기 위해 의대에 진학하고 싶다고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "공원 놀이터",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "말하다",
+                    "emotion": "씁쓸하다",
+                    "content": "그녀는 새로운 인생을 살아보고 싶다고 말하고 이를 들은 C004는 씁쓸한 미소를 짓는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타주",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "만들다",
+                    "content": "C006가 집과 학교에서 공부에 몰두한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "content": "C006가 대입 시험 전날 C004와 새로 나온 C004 회사의 라면을 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학교 게시판",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006와 C004가 합격자 발표를 보러 간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학교 게시판",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "자랑스럽다",
+                    "content": "C004의 우려와 달리 C006는 의대에 합격한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스시집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "content": "C006와 C004가 C006의 합격을 축하하며 두 사람이 연애하던 시절 왔던 스시집에서 저녁을 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스시집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "기대되다",
+                    "content": "C006는 C004에게 선생님이 마음에 들면 만나보라고 얘기한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "술에 취한 C006를 눕히고 옷을 갈아입히던 C004는 그녀의 옷을 벗기다 말고 이불을 덮어준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "서운하다",
+                    "content": "C006가 잠에서 깨어나 함께 관계를 갖자고 하지만 C004는 그럴 수 없다고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 부모의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C006의 할아버지"
+                    ],
+                    "act": "만들다",
+                    "content": "C006의 할아버지가 C006가 먹고 싶어 했다며 국수를 끌 여준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 부모의 집",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "C006의 할아버지"
+                    ],
+                    "act": "만들다",
+                    "content": "C006는 C006 생각에 눈물을 터뜨리지만 모두 C006가 C003 생각에 우는 것이라 생각한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 부모의 집",
+                    "character": [
+                        "C003",
+                        "C006의 할아버지"
+                    ],
+                    "act": "말하다",
+                    "emotion": "애틋하다",
+                    "content": "C006가 아버지의 등을 안마해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C003 부모의 집",
+                    "character": [
+                        "C003",
+                        "C006의 할아버지"
+                    ],
+                    "act": "말하다",
+                    "content": "그녀가 C003인 줄 모르는 그녀의 아버지는 만일 C004에게 좋은 사람이 생기면 재혼을 할 수 있게 도와달라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "버스 안",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004와 C006가 나고야 설원을 달리는 차 안에 있다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_08",
+            "prev_id": "03_1300_07",
+            "next_id": "03_1300_09",
+            "characters": [
+                "C004",
+                "C003",
+                "운전기사의 아들"
+            ],
+            "stage": "Another Story",
+            "storyline": "사고를 낸 운전기사의 아들 역시 C006처럼 그의 부모를 잃었다. C004는 라면집에서 일을 한다는 그에게 왠지 정이 간다.",
+            "unit_motif": "희생하는 부모",
+            "causality": "Crossing(교차)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "나고야 설원",
+                    "character": [
+                        "C004",
+                        "C003",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만들다",
+                    "content": "사고가 난 장소에 피해자들을 추모하는 비석이 세워져 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "나고야 설원",
+                    "character": [
+                        "C004",
+                        "C003",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만들다",
+                    "content": "피해자들의 가족들이 모여 비석 앞에서 피해자들을 추모한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 로비",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006와 C004가 식당에 자리가 나길 기다리다가 안으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 내부",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만나다",
+                    "emotion": "씁쓸하다",
+                    "content": "C006와 C004 옆자리에 운전기사의 아들이 앉아 먼저 밥을 먹고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 내부",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만나다",
+                    "emotion": "불쾌하다",
+                    "content": "이를 본 C006가 불쾌해 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 계산대",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "준다",
+                    "content": "운전기사의 아들이 지갑을 가져오지 않아 계산을 못하고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 계산대",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "준다",
+                    "content": "이를 본 C004가 대신 계산해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "식당 계산대",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "준다",
+                    "emotion": "화나다",
+                    "content": "C006는 그런 C004에게 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 앞",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "운전기사의 아들이 C004의 집 앞에서 머뭇거리다가 C004를 만나 함께 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 현관",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만나다",
+                    "content": "신세 진 돈만 갚고 나가려는 운전기사의 아들이 장을 봐서 돌아오는 C006와 마주친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004와 운전기사의 아들에게 C006가 차를 내온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C003",
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "반갑다",
+                    "content": "운전기사의 아들이 가까운 라면집에서 일한다는 사실을 알고 C004가 반가워한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_09",
+            "prev_id": "03_1300_08",
+            "next_id": "03_1300_10",
+            "characters": [
+                "C003",
+                "C001",
+                "C004"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C006가 대학생활에 적응을 해 나간다.",
+            "unit_motif": "중년의 위기",
+            "causality": "Herald(발표/예고)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "대학 캠퍼스",
+                    "act": "간다/이동한다",
+                    "content": "C006가 입학한 관서 대학의 캠퍼스가 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학 캠퍼스",
+                    "act": "간다/이동한다",
+                    "content": "학생들이 학교를 거닐고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강의실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "의대 수업을 듣고 있는 C006의 모습이 즐거워 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학 캠퍼스",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "길을 걷는 C006를 눈여겨보고 있는 한 선배가 그녀에게 요트 부에 들 것을 권한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학 캠퍼스",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "C006는 거절하고 지나가지만 의대생은 체력이 중요하다는 말을 듣고 고민한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "기대되다",
+                    "content": "C006가 그녀의 선배와 요트 타는 법을 배운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "무섭다",
+                    "content": "그녀는 무서워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "content": "선배와 함께 요트를 뭍으로 끌어올리는 C006의 표정이 즐거워 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바닷가",
+                    "character": [
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "말하다",
+                    "emotion": "질투하다",
+                    "content": "C004에게 선배와 함께 해서 위험하지 않다는 C006의 목소리가 들린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "기다리다",
+                    "content": "집 정원에는 스프링클러가 혼자 돌아가고 있고 C004가 우울한 모습으로 거실에 엎드려있다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_10",
+            "prev_id": "03_1300_09",
+            "next_id": "03_1300_11",
+            "characters": [
+                "C004",
+                "C003",
+                "C001",
+                "운전기사의 아들"
+            ],
+            "stage": "Trailer Moments",
+            "storyline": "C003는 새롭게 얻은 삶을 즐긴다. 그러나 C004는 혼자 있는 시간이 늘어간다.",
+            "unit_motif": "중년의 위기",
+            "causality": "Reconnaissance(정탐)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "몽타주",
+                    "character": [
+                        "C004",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "content": "C006는 공부와 동아리 활동 등을 하면서 즐거워하고 C004는 집에서 혼자 보내는 시간이 많아진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "몽타주",
+                    "character": [
+                        "C004",
+                        "C003",
+                        "C001"
+                    ],
+                    "act": "놀다",
+                    "content": "C006가 돌보던 식물들은 시들어있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "길거리",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "퇴근 후 돌아오는 C004에게 술집 아가씨들이 호객행위를 하자 그가 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만나다",
+                    "content": "한 라면집을 지나가던 C004가 접시를 깨고 사과하기 위해 종업원을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "만나다",
+                    "emotion": "난감하다",
+                    "content": "C004는 종업원이 운전기사의 아들임을 알고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집 내부",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 운전기사의 아들이 열심히 일하는 것을 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "씁쓸하다",
+                    "content": "집에 돌아온 C004를 맞이하는 것은 동아리 활동 때문에 집에 늦는다는 아내의 메시지뿐이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 현관",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "content": "C006가 집에 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 욕실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "담담하다",
+                    "content": "목욕을 하는 C004에게 찾아와 C006가 다녀왔다고 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 욕실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "묻는다",
+                    "content": "C004가 함께 목욕을 하자고 C006에게 조르지만 C006의 반응은 시큰둥하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C004에게 늦은 저녁을 차려주고 C006는 공부를 하러 C006의 방으로 올라가 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "그때 요트 동아리 남자 선배로부터 전화가 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "짜증나다",
+                    "content": "C004는 전화를 받아 C006에게 돌려준다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_11",
+            "prev_id": "03_1300_10",
+            "next_id": "03_1300_12",
+            "characters": [
+                "C006",
+                "C004",
+                "C001"
+            ],
+            "stage": "2nd Accident",
+            "storyline": "C006를 좋아하는 그녀의 선배 C001의 존재를 알게 된 C004가 그를 신경 쓰기 시작한다.",
+            "unit_motif": "불청객",
+            "causality": "Last test(마지막 시험/시련)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "C006 동아리 선배의 전화를 받는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "말하다",
+                    "content": "선배 C001는 그녀와 오랫동안 통화를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "답답하다",
+                    "content": "다른 남자와의 통화가 오랫동안 지속되는 것을 못마땅하게 지켜보는 C004가 TV를 꺼버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C001는 C006에게 요트에 소질이 있으니 대회에 나가보라고 하지만 C006는 거절하고 전화를 끊는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "짜증나다",
+                    "content": "C006가 전화 후 방문을 열자 엿듣고 있던 C004가 그녀를 다그친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "content": "요트를 운전하는 C006와 C001의 모습이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다",
+                    "character": [
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "묻는다",
+                    "emotion": "무감각함",
+                    "content": "C001가 주말에 함께 놀러 가지 않겠느냐고 C006에게 말하지만 C006는 시큰둥하게 반응한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 C006의 방에 들어가서 몰래 C001에 대한 정보를 알아낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "설레다",
+                    "content": "C004는 젊은 C001의 사진과 거울 속 자신의 모습을 비교해 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "C001"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "그때 창밖에 C001와 C006의 모습이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 앞",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "집에 도착한 C001와 C006가 인사를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 앞",
+                    "character": [
+                        "C001",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "설레다",
+                    "content": "C001가 주말에 시간을 내줄 수 없냐고 다시 묻지만 C006를 미안하다고 말하고 차에서 내린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "당황하다",
+                    "content": "C006가 들어오는 것을 본 C004가 급하게 나오려다가 방에 있던 장식품을 쓰러트린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "준다",
+                    "content": "C004가 아무 일 없다는 듯 안방에서 나오면서 C006에게 인사한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "준다",
+                    "content": "그는 C006에게 괜히 핀잔을 준다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_12",
+            "prev_id": "03_1300_11",
+            "next_id": "03_1300_13",
+            "characters": [
+                "C003",
+                "C004"
+            ],
+            "stage": "Villains Move",
+            "storyline": "C006와 C001의 관계를 의심하는 C004가 두 사람을 염탐한다.",
+            "unit_motif": "의처증(의부증)",
+            "causality": "Distortion(뒤틀림/왜곡)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006가 방에 들어와 물건이 흐트러져 있는 것을 발견한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C004와 C006가 저녁을 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 부엌",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "기분이 좋지 않은 C006는 밥을 먹다 말고 C006의 방으로 올라가 버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집으로 가는 길",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 무엇인가 중요해 보이는 물건을 안고 집으로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집으로 가는 길",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "긴장되다",
+                    "content": "그는 긴장을 했는지 길에서 넘어진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 집에 C006가 없는지 확인한 후 정확하게 앞에서 가져온 물건을 꺼낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "준다",
+                    "content": "C001가 C006에게 전화해 자신의 관심을 계속 표한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "준다",
+                    "emotion": "당황하다",
+                    "content": "C006는 당황한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 부착해둔 도청장치로 C006와 C001의 전화 내용을 엿듣는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "다음날 낮에 카페에서 기다리겠다는 C001의 막무가내 부탁에 C006가 당황하며 전화를 끊는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C004는 C006의 눈치를 살피며 함께 나가서 점심을 먹지 않겠냐고 제안한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "숨기다/감추다",
+                    "emotion": "짜증나다",
+                    "content": "C006는 따로 약속이 없다고 C004에게 거짓말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C001의 전화 때문에 고민하던 C006는 누군가에게 전화를 건다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "숨기다/감추다",
+                    "content": "C004가 소파에 누워 C006의 통화 내용을 듣고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교차편집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006는 친구 C005에게 전화를 걸어 자신과 만나기로 했다고 거짓 전화를 해줄 것을 부탁한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "교차편집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004가 이 모든 내용을 듣고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006가 정원에서 물을 주는 동안 C005로부터 전화가 온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "초조하다",
+                    "content": "C004가 이를 받지 않자, C006가 초조해하며 C004에게 전화를 받으라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "옷을 갈아입은 C006가 C005를 만나고 오겠다며 집을 나선다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004는 누워서 신문을 보고 있다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_13",
+            "prev_id": "03_1300_12",
+            "next_id": "03_1300_14",
+            "characters": [
+                "C003",
+                "C001",
+                "C004"
+            ],
+            "stage": "Defeat",
+            "storyline": "C006와 C001가 만나는 장소에 나타난 C004에게 C006가 화를 낸다. 두 사람은 갈등을 빚는다.",
+            "unit_motif": "부부싸움",
+            "causality": "Enemy(적/적대자)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C001가 기다리는 장소에 C006가 나타난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "그때, C004가 나타나 두 사람은 절대 만날 수 없다며 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "카페",
+                    "character": [
+                        "C003",
+                        "C001",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "놀라다",
+                    "content": "이유를 묻는 C001에게 그는 자신과 가족이 우주에서 왔다고 말해버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C006와 C004가 집에 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "화나다",
+                    "content": "화가 난 C006가 도청장치를 찾아 떼어버린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "C006의 방으로 올라가는 C006를 C004가 쫓아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "화나다",
+                    "content": "C006에게 C004가 왜 C001를 만나러 갔냐고 다그친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "화나다",
+                    "content": "C006는 그에게 자신에겐 사생활이 없냐고 말하자 C004는 자신이 다른 유혹을 뿌리친 일들을 말하며 화를 낸다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "부수다",
+                    "emotion": "우울하다",
+                    "content": "현재의 상황이 괴롭다는 C004에게 C006는 자신이 사고 때 죽었어야 했다고 한탄한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "스시집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "마시다",
+                    "content": "홀로 스시집에 찾은 C004는 씁쓸한 얼굴로 술을 마신다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "content": "집에 돌아온 C004를 C006가 반갑게 맞이한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "묻는다",
+                    "content": "C004가 저녁을 먹고 왔다며 사양하자 C006가 섹스를 하자고 제안한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C004가 C006와 관계를 가져보려고 시도하지만, C006의 얼굴을 보자 망설여진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 안방",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "다투다/대립하다",
+                    "content": "결국 그는 포기하고 C006는 돌아눕는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "비참하다",
+                    "content": "C004는 거실에 앉아 정원에서 홀로 고민에 빠진 C006의 모습을 본다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_14",
+            "prev_id": "03_1300_13",
+            "next_id": "03_1300_15",
+            "characters": [
+                "C004",
+                "운전기사의 아들",
+                "운전기사",
+                "C003"
+            ],
+            "stage": "Innermost Cave",
+            "storyline": "C004는 친아들이 아닌 자식을 키운 운전기사의 아들 이야기를 들으며 가족에 대해 생각한다. 그는 C006에게 원하는 삶을 살도록 허락한다.",
+            "unit_motif": "이혼",
+            "causality": "Seeker(추적/추구)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "라면집 앞",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "때리다",
+                    "content": "길을 걷던 C004가 라면집 종업원이 휘두르는 봉에 맞는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집 앞",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "때리다",
+                    "content": "이번에도 운전기사의 아들이다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집 내부",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "말하다",
+                    "emotion": "혼란스럽다",
+                    "content": "운전기사의 아들과 얘기를 나누던 C004는 그가 기사의 친아들이 아님을 안다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집 내부",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "말하다",
+                    "content": "운전기사의 아들은 친아들이 아닌 자신을 키워준 아버지에 대한 이야기를 해준다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "학교 운동장",
+                    "character": [
+                        "운전기사의 아들",
+                        "운전기사"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "사무치다",
+                    "content": "운전기사의 아들이 어릴 적에 아버지인 운전기사와 자전거를 타던 추억을 떠올린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집 내부",
+                    "character": [
+                        "C004",
+                        "운전기사의 아들"
+                    ],
+                    "act": "준다",
+                    "content": "C004가 C003가 들었던 운전기사의 마지막 말을 그의 아들에게 전한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집으로 가는 길",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 홀로 집으로 돌아오고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "집으로 돌아온 C004가 C006를 찾는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "content": "그녀는 정원에서 홀로 화분을 보고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "말하다",
+                    "emotion": "자신감 있다",
+                    "content": "C004는 C006에게 스스로가 원하는 인생을 살라고 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "받아들이다/수락하다",
+                    "content": "C006가 반지가 들어있는 인형을 손에 쥐고 운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "마시다",
+                    "emotion": "속상하다",
+                    "content": "C004가 홀로 탁자에 앉아 연거푸 술을 마신다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_15",
+            "prev_id": "03_1300_14",
+            "next_id": "03_1300_16",
+            "characters": [
+                "C004",
+                "C006",
+                "C003"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C006가 깨어나고 C006와 C004가 한동안 잊고 있었던 세 가족의 행복을 되찾는다.",
+            "unit_motif": "사랑하는 사람의 죽음",
+            "causality": "Courtship(구애)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "소파에 잠들어 있는 C004를 C006가 깨운다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "놀라다",
+                    "content": "C004는 그녀가 C003가 아닌 C006임을 깨닫고 놀란다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "그는 C006에게 자초지종을 설명한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "준다",
+                    "emotion": "혼란스럽다",
+                    "content": "C004가 C006가 찍은 사진과 대학 합격증 등을 C006에게 보여주며 설명하지만 C006는 혼란스럽기만 하다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "준다",
+                    "content": "C004는 도서관에서 본 빙의에 걸린 소녀가 떠오른다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "content": "머리가 아프다며 잠이 든 C006가 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "content": "그러나 깨어난 그녀는 C006가 아닌 C006다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 C006의 방",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만나다",
+                    "emotion": "기쁘다",
+                    "content": "C006와 C004는 C006가 나타난 것을 알고 기뻐한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006가 다시 잠에서 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C006",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006가 그녀의 엄마가 남긴 편지를 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C006",
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004는 엄마에게 편지를 쓰겠다는 C006의 말에 기분이 좋다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "놀다",
+                    "emotion": "즐겁다",
+                    "content": "C004가 정원을 보며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "놀다",
+                    "content": "C006가 그에게 다가와 장난을 친다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "놀다",
+                    "content": "C006와 C004가 C006가 쓴 편지를 읽는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학교 캠퍼스",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C006가 강의실이 있는 건물로 뛰어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "대학교 캠퍼스",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "이제 자기 대신 C006를 학교로 보내겠다는 C003의 목소리가 들린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "강의실",
+                    "character": [
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C006가 열심히 강의를 듣는다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_16",
+            "prev_id": "03_1300_15",
+            "next_id": "03_1300_17",
+            "characters": [
+                "C004",
+                "C003",
+                "C006",
+                "운전기사의 아들"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C006는 C004와 운전기사 아들이 새로 개점한 라면집에 찾아간다.",
+            "unit_motif": "사랑하는 사람의 죽음",
+            "causality": "Ally(동맹/협력)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 직장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 새로 나온 라면을 시음만 해본 후 바로 퇴근한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 직장",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "직장 동료들이 그를 이상하게 본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "즐겁다",
+                    "content": "C006는 C006가 남겨놓은 비디오를 보며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "content": "C004와 C006가 C006가 만든 수프를 먹는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C003",
+                        "C004"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "걱정",
+                    "content": "C006는 C006가 사치스러워 걱정이라 말한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집으로 가는 길",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "만들다",
+                    "content": "C004가 C006와 함께 쇼핑을 하고 즐거운 표정으로 돌아온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "운전기사의 아들"
+                    ],
+                    "act": "먹는다",
+                    "content": "운전기사 아들이 새로 개점한 라면집에 C006와 C004가 찾아간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "라면집",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "운전기사의 아들"
+                    ],
+                    "act": "먹는다",
+                    "emotion": "궁금하다",
+                    "content": "C006가 라면을 먹는 모습을 운전기사의 아들이 특별한 듯이 쳐다본다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C006가 소파에 누워 좀처럼 자에서 깨지 못한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 거실",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C006가 완전히 돌아오면 곧 자신이 떠나야 할 것이란 생각에 슬픈 C006에게 C004가 바람을 쐬자고 말한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_17",
+            "prev_id": "03_1300_16",
+            "next_id": "03_1300_18",
+            "characters": [
+                "C004",
+                "C006",
+                "C003"
+            ],
+            "stage": "Choice to Fight",
+            "storyline": "C006는 점점 사라져 떠나간다.",
+            "unit_motif": "사랑하는 사람의 죽음",
+            "causality": "Retaliation(보복/복수)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집 정원",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "당황하다",
+                    "content": "정원을 살피는 C006로부터 C004는 C006가 곧 사라질 것이란 소식을 듣고 충격에 빠진다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "C004가 C003와 젊은 시절에 데이트를 했던 곳으로 C006를 데려온다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "content": "C006는 C004의 얘기를 듣다가 갑자기 잠이 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "만들다",
+                    "emotion": "즐겁다",
+                    "content": "잠에서 깬 C006는 C004와 옛날 얘기를 하며 즐거워한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "act": "얻는다/취하다",
+                    "content": "푸른 바다의 모습이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C006가 C004에게 작별 인사를 하려고 한다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "emotion": "애틋하다",
+                    "content": "C006와 C004가 함께 슬퍼하고 두 사람은 키스를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "자다/잠들다",
+                    "content": "C006는 다시 잠에 든다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "해가 저물고 C006가 깨어난다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "바다가 보이는 공원",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "서운하다",
+                    "content": "C004는 C006에게 C003가 떠나갔다고 이야기한다."
+                }
+            ]
+        },
+        {
+            "id": "03_1300_18",
+            "prev_id": "03_1300_17",
+            "characters": [
+                "C004",
+                "C006",
+                "운전기사의 아들",
+                "C003"
+            ],
+            "stage": "Resurrection",
+            "storyline": "C006가 사라진 후 몇 년 뒤 C006가 결혼식을 한다. 운전기사의 아들과 결혼식을 하게 된 그녀를 떠나보내는 마지막 인사 자리에서 C004는 우연히 그녀가 C006가 아닌 C003 임을 깨닫는다.",
+            "unit_motif": "신분위장",
+            "causality": "Surprise(충격/놀람)",
+            "story_scripts": [
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "간다/이동한다",
+                    "content": "몇 년이 지난 후의 C004의 집의 모습이 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당",
+                    "character": [
+                        "C004",
+                        "C006"
+                    ],
+                    "act": "간다/이동한다",
+                    "emotion": "행복하다",
+                    "content": "어느 신부가 아버지의 팔을 잡고 성당 안으로 입장하는 모습이 멀리서 보인다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 결혼식장",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "운전기사의 아들"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "행복하다",
+                    "content": "C006가 C004의 팔을 잡고 식장으로 들어간다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 결혼식장",
+                    "character": [
+                        "C004",
+                        "C006",
+                        "운전기사의 아들"
+                    ],
+                    "act": "꼬시다",
+                    "emotion": "기대되다",
+                    "content": "운전기사의 아들이 턱시도를 입고 그녀를 기다리고 있다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 복도",
+                    "act": "찾는다",
+                    "content": "사라진 C004를 가족들이 찾으러 다닌다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 빈 연회장",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "혼란스럽다",
+                    "content": "C006는 C004에게 인사를 나누다 무의식적으로 그의 턱을 쓰다듬는다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 빈 연회장",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "배신감",
+                    "content": "C004는 그녀가 C006가 아닌 C006인 것을 안다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 빈 연회장",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "맞이하다",
+                    "emotion": "배신감",
+                    "content": "C006를 찾아 들어온 운전기사의 아들을 C004가 주먹으로 때린다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 빈 연회장",
+                    "character": [
+                        "C004",
+                        "C003"
+                    ],
+                    "act": "맞이하다",
+                    "content": "C006와 C004는 작별 인사를 나눈다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "성당 빈 연회장",
+                    "character": [
+                        "C003"
+                    ],
+                    "act": "얻는다/취하다",
+                    "emotion": "미안하다",
+                    "content": "울음을 참는 C006의 표정이 클로즈업 된다."
+                },
+                {
+                    "type": "narrative",
+                    "location": "C004의 집",
+                    "character": [
+                        "C004"
+                    ],
+                    "act": "얻는다/취하다",
+                    "content": "C004의 집 곳곳에 남겨진 C006와 C003의 흔적들이 보인다."
+                }
+            ]
+        }
+    ]
+}
